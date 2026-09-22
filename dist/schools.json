@@ -1,0 +1,2981 @@
+{
+  "updated": "2026-09-22",
+  "entryYear": "2027–28",
+  "provenance": "Initial school list and tentative dates transcribed from a parent-supplied high school application guide. Guide dates do not explicitly state a year. No personal records or private guide URL included.",
+  "schools": [
+    {
+      "id": "franklin",
+      "name": "Franklin School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.franklinjc.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Apply through the school’s admissions process and complete materials and interview. Early Decision is binding after accepting the offer. The FAQ has a conflicting November date; use the dated admissions-process page and confirm with admissions.",
+        "status": "verified",
+        "url": "https://www.franklinjc.org/admissions/admission-process"
+      },
+      "visits": {
+        "summary": "Oct 7 + 3 dates",
+        "text": "Oct 7, 2026 — 5:30–6:30 pm · Open house\nOct 24, 2026 — 10–11 am · Open house\nNov 4, 2026 — 5:30–6:30 pm · Open house\nNov 14, 2026 — 10–11 am · Open house\nRegister in advance.",
+        "url": "https://www.franklinjc.org/admissions/visit-us",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 7, 2026",
+            "detail": "5:30–6:30 pm · Open house",
+            "id": "franklin-visits-1",
+            "isoDate": "2026-10-07",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 24, 2026",
+            "detail": "10–11 am · Open house",
+            "id": "franklin-visits-2",
+            "isoDate": "2026-10-24",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 4, 2026",
+            "detail": "5:30–6:30 pm · Open house",
+            "id": "franklin-visits-3",
+            "isoDate": "2026-11-04",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 14, 2026",
+            "detail": "10–11 am · Open house",
+            "id": "franklin-visits-4",
+            "isoDate": "2026-11-14",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register in advance."
+      },
+      "deadline": {
+        "text": "Nov 13, 2026 — Early Decision application + aid\nNov 20, 2026 — Early Decision materials + interview\nJan 15, 2027 — Regular application + aid\nJan 29, 2027 — Regular materials + interview",
+        "status": "verified",
+        "url": "https://www.franklinjc.org/admissions/admission-process",
+        "dates": [
+          "2026-11-13",
+          "2027-01-15"
+        ],
+        "summary": "Nov 13 / Jan 15",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Nov 13, 2026",
+            "detail": "Early Decision application + aid",
+            "id": "franklin-deadline-1",
+            "isoDate": "2026-11-13",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 20, 2026",
+            "detail": "Early Decision materials + interview",
+            "id": "franklin-deadline-2",
+            "isoDate": "2026-11-20",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 15, 2027",
+            "detail": "Regular application + aid",
+            "id": "franklin-deadline-3",
+            "isoDate": "2027-01-15",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 29, 2027",
+            "detail": "Regular materials + interview",
+            "id": "franklin-deadline-4",
+            "isoDate": "2027-01-29",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "Test-optional",
+        "text": "ISEE / SSAT optional for 2027–28. No required test date.",
+        "url": "https://www.franklinjc.org/admissions/admission-process",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Optional",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$35,350 · 2026–27\nAdditional fees may apply; verify the complete fee schedule.",
+        "status": "verified",
+        "url": "https://www.franklinjc.org/admissions/tuition-financial-aid",
+        "amount": 35350,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.franklinjc.org/"
+      },
+      "college": {
+        "text": "2024–26 outcomes list includes MIT, Michigan, NYU Stern and Georgia Tech. The page mixes acceptances and enrollment; no comparable Ivy placement percentage established.",
+        "status": "verified",
+        "url": "https://www.franklinjc.org/academics/college-counseling",
+        "summary": "MIT, NYU & more"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/franklin-school-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "st-peters",
+      "name": "Saint Peter’s Prep",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Boys-only",
+      "website": "https://spprep.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "For 2027–28: online application, entrance exam, transcript (grades 6–7 and first grade-8 marking period), teacher recommendation and essay.",
+        "status": "verified",
+        "url": "https://spprep.org/admissions/apply-to-prep/"
+      },
+      "visits": {
+        "text": "Sep 21, 2026 onward — Freshman for a Day\nOct 18, 2026 — 1–4 pm · Open house\nMay 2, 2027 — Spring open house",
+        "status": "verified",
+        "url": "https://spprep.org/admissions/important-dates/",
+        "summary": "Oct 18, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 21, 2026 onward",
+            "detail": "Freshman for a Day",
+            "id": "st-peters-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 18, 2026",
+            "detail": "1–4 pm · Open house",
+            "id": "st-peters-visits-2",
+            "isoDate": "2026-10-18",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "May 2, 2027",
+            "detail": "Spring open house",
+            "id": "st-peters-visits-3",
+            "isoDate": "2027-05-02",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "deadline": {
+        "text": "Dec 11, 2026 — Complete application + financial aid\nFor the January decision mailing.",
+        "status": "verified",
+        "url": "https://spprep.org/admissions/important-dates/",
+        "dates": [
+          "2026-12-11"
+        ],
+        "summary": "Dec 11, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Dec 11, 2026",
+            "detail": "Complete application + financial aid",
+            "id": "st-peters-deadline-1",
+            "isoDate": "2026-12-11",
+            "kind": "Application",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "For the January decision mailing."
+      },
+      "exam": {
+        "text": "HSPT: Nov 6, 2026. Makeup: Nov 14 (elsewhere). SSAT / ISEE / TACHS also accepted. Check signup cutoff.",
+        "status": "verified",
+        "url": "https://spprep.org/admissions/important-dates/",
+        "summary": "HSPT · Nov 6",
+        "checked": "2026-09-22",
+        "examIds": [
+          "hspt",
+          "isee",
+          "ssat",
+          "tachs"
+        ],
+        "requirement": "HSPT or accepted alternative",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$25,901 · 2026–27\nAdditional fees may apply; verify the complete fee schedule.",
+        "status": "verified",
+        "url": "https://spprep.org/admissions/tuition-fees-at-a-glance/",
+        "amount": 25901,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://spprep.org/"
+      },
+      "college": {
+        "text": "School confirms at least one Princeton-bound Class of 2025 graduate. This is an individual destination announcement, not a school-wide placement percentage.",
+        "status": "verified",
+        "url": "https://spprep.org/2025/06/17/class-of-25-sets-off-toward-a-greater-perhaps/",
+        "summary": "Princeton · 2025"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/saint-peters-prep-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "st-dominic",
+      "name": "Saint Dominic Academy",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Girls-only",
+      "website": "https://saintdoms.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Not yet verified for fall 2027 entry.",
+        "status": "unknown",
+        "url": "https://saintdoms.org/"
+      },
+      "visits": {
+        "summary": "Sep 27 · 11–1",
+        "text": "Sep 27 · year unconfirmed — 11 am–1 pm · Open house, 2572 JFK Boulevard\nConfirm 2026 when registering; the page omits the year.",
+        "url": "https://saintdoms.org/",
+        "status": "tentative",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 27 · year unconfirmed",
+            "detail": "11 am–1 pm · Open house, 2572 JFK Boulevard",
+            "id": "st-dominic-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "tentative"
+          }
+        ],
+        "detailNote": "Confirm 2026 when registering; the page omits the year."
+      },
+      "deadline": {
+        "summary": "Not posted",
+        "text": "Date not posted — Fall 2027 application cutoff\nContact admissions: 201-434-5938 ext. 502.",
+        "url": "https://saintdoms.org/admissions/how-to-apply/",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "items": [
+          {
+            "date": "Date not posted",
+            "detail": "Fall 2027 application cutoff",
+            "id": "st-dominic-deadline-1",
+            "isoDate": null,
+            "kind": "Application",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "Contact admissions: 201-434-5938 ext. 502."
+      },
+      "exam": {
+        "summary": "HSPT · confirm cycle",
+        "text": "COOP/HSPT listed for the old cycle. Confirm the 2027–28 requirement and date.",
+        "url": "https://saintdoms.org/admissions/how-to-apply/",
+        "status": "tentative",
+        "checked": "2026-09-22",
+        "examIds": [
+          "hspt"
+        ],
+        "requirement": "HSPT listed; confirm entry cycle",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Current tuition and additional fees not yet verified.",
+        "status": "unknown",
+        "url": "https://saintdoms.org/",
+        "amount": null,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://saintdoms.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://saintdoms.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A",
+        "text": "Overall Niche grade: A. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/saint-dominic-academy-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "high-tech",
+      "name": "High Tech High School",
+      "city": "Secaucus",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://hths.hcstonline.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Hudson County residency required for student and parent/guardian; grade 8 as of Sep 1, 2026. One HCST application; CTE major affects placement. Application, recommendation, counselor submission and portfolio are required.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/"
+      },
+      "visits": {
+        "text": "Sep 29, 2026 — 5:30 pm · Academy showcases\nSep 30, 2026 — 5:30 pm · Academy showcases\nCheck the schedule for your chosen major.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "summary": "Sep 29–30, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 29, 2026",
+            "detail": "5:30 pm · Academy showcases",
+            "id": "high-tech-visits-1",
+            "isoDate": "2026-09-29",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Sep 30, 2026",
+            "detail": "5:30 pm · Academy showcases",
+            "id": "high-tech-visits-2",
+            "isoDate": "2026-09-30",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Check the schedule for your chosen major."
+      },
+      "deadline": {
+        "text": "Nov 13, 2026 — 4 pm ET · Application\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "dates": [
+          "2026-11-13"
+        ],
+        "summary": "Nov 13, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Nov 13, 2026",
+            "detail": "4 pm ET · Application",
+            "id": "high-tech-deadline-1",
+            "isoDate": "2026-11-13",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 30, 2026",
+            "detail": "Noon · Recommendation",
+            "id": "high-tech-deadline-2",
+            "isoDate": "2026-11-30",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 23, 2026",
+            "detail": "3 pm · Counselor materials + portfolio",
+            "id": "high-tech-deadline-3",
+            "isoDate": "2026-12-23",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "text": "No PSAT 8/9 required. Arts auditions: Dec 5 or 12, 2026, depending on major.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "summary": "No PSAT required",
+        "checked": "2026-09-22",
+        "examIds": [
+          "audition"
+        ],
+        "requirement": "No PSAT; arts audition depends on major",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Public school; tuition-free for eligible residents. Confirm program-related costs.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "amount": 0,
+        "year": "2027–28"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://hths.hcstonline.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://hths.hcstonline.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/high-tech-high-school-secaucus-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "county-prep",
+      "name": "County Prep High School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://cphs.hcstonline.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Hudson County residency required for student and parent/guardian; grade 8 as of Sep 1, 2026. One HCST application; CTE major affects placement. Application, recommendation, counselor submission and portfolio are required.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/"
+      },
+      "visits": {
+        "text": "Sep 22, 2026 — 5 pm · CTE showcases\nSep 24, 2026 — 5 pm · CTE showcases\nOct 1, 2026 — 5 pm · CTE showcases\nCheck the schedule for your chosen program.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "summary": "Sep 22, 24 / Oct 1",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 22, 2026",
+            "detail": "5 pm · CTE showcases",
+            "id": "county-prep-visits-1",
+            "isoDate": "2026-09-22",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Sep 24, 2026",
+            "detail": "5 pm · CTE showcases",
+            "id": "county-prep-visits-2",
+            "isoDate": "2026-09-24",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 1, 2026",
+            "detail": "5 pm · CTE showcases",
+            "id": "county-prep-visits-3",
+            "isoDate": "2026-10-01",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Check the schedule for your chosen program."
+      },
+      "deadline": {
+        "text": "Nov 13, 2026 — 4 pm ET · Application\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "dates": [
+          "2026-11-13"
+        ],
+        "summary": "Nov 13, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Nov 13, 2026",
+            "detail": "4 pm ET · Application",
+            "id": "county-prep-deadline-1",
+            "isoDate": "2026-11-13",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 30, 2026",
+            "detail": "Noon · Recommendation",
+            "id": "county-prep-deadline-2",
+            "isoDate": "2026-11-30",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 23, 2026",
+            "detail": "3 pm · Counselor materials + portfolio",
+            "id": "county-prep-deadline-3",
+            "isoDate": "2026-12-23",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "text": "No PSAT 8/9 required. Arts auditions: Dec 5 or 12, 2026, depending on major.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "summary": "No PSAT required",
+        "checked": "2026-09-22",
+        "examIds": [
+          "audition"
+        ],
+        "requirement": "No PSAT; arts audition depends on major",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Public school; tuition-free for eligible residents. Confirm program-related costs.",
+        "status": "verified",
+        "url": "https://hcstonline.org/admissions/",
+        "amount": 0,
+        "year": "2027–28"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://cphs.hcstonline.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://cphs.hcstonline.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A",
+        "text": "Overall Niche grade: A. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/county-prep-high-school-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "mcnair",
+      "name": "Dr. Ronald E. McNair Academic High School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://mhs.jcboe.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "For September 2027 entry, Jersey City residency is required. Non-JCPS students must register for the PSAT through their current school; ask its counselor for the remaining application instructions.",
+        "status": "verified",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf"
+      },
+      "visits": {
+        "summary": "Contact school",
+        "text": "Date not confirmed — Contact school for an applicant visit\nThe district’s Sep 24 open-house evening is not confirmed as an admissions event.",
+        "url": "https://mhs.jcboe.org/",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Date not confirmed",
+            "detail": "Contact school for an applicant visit",
+            "id": "mcnair-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "The district’s Sep 24 open-house evening is not confirmed as an admissions event."
+      },
+      "deadline": {
+        "summary": "Not posted",
+        "text": "Oct 2, 2026 — 3 pm · PSAT signup through current school\nOct 14, 2026 — 5 pm · $26 PSAT payment\nDate not confirmed — Final school-application deadline\nPSAT dates above apply to Jersey City residents attending non-JCPS schools. Ask your counselor for application instructions.",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "note": "PSAT signup: Oct 2",
+        "items": [
+          {
+            "date": "Oct 2, 2026",
+            "detail": "3 pm · PSAT signup through current school",
+            "id": "mcnair-deadline-1",
+            "isoDate": "2026-10-02",
+            "kind": "Exam registration",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 14, 2026",
+            "detail": "5 pm · $26 PSAT payment",
+            "id": "mcnair-deadline-2",
+            "isoDate": "2026-10-14",
+            "kind": "Exam payment",
+            "status": "verified"
+          },
+          {
+            "date": "Date not confirmed",
+            "detail": "Final school-application deadline",
+            "id": "mcnair-deadline-3",
+            "isoDate": null,
+            "kind": "Application",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "PSAT dates above apply to Jersey City residents attending non-JCPS schools. Ask your counselor for application instructions."
+      },
+      "exam": {
+        "summary": "PSAT 8/9 · Oct 24",
+        "text": "PSAT 8/9: Oct 24, 2026 · MS #7, 222 Laidlaw Ave. Only offered date for Jersey City residents at non-JCPS schools. Signup/payment deadlines above; JCPS students ask their school.",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "note": "Register by Oct 2",
+        "examIds": [
+          "psat"
+        ],
+        "requirement": "Required; dates shown for non-JCPS students",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Public school; resident eligibility applies. Confirm any program fees.",
+        "status": "unknown",
+        "url": "https://www.jcboe.org/",
+        "amount": 0,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://mcnair.jcboe.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://mcnair.jcboe.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/dr-ronald-e-mcnair-academic-high-school-jersey-city-nj/rankings/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "infinity",
+      "name": "Infinity Institute",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://ii.jcboe.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "For September 2027 entry, Jersey City residency is required. Non-JCPS students must register for the PSAT through their current school; ask its counselor for the remaining application instructions.",
+        "status": "verified",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf"
+      },
+      "visits": {
+        "summary": "Contact school",
+        "text": "Date not confirmed — Contact school for an applicant visit\nThe district’s Sep 24 open-house evening is not confirmed as an admissions event.",
+        "url": "https://ii.jcboe.org/",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Date not confirmed",
+            "detail": "Contact school for an applicant visit",
+            "id": "infinity-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "The district’s Sep 24 open-house evening is not confirmed as an admissions event."
+      },
+      "deadline": {
+        "summary": "Not posted",
+        "text": "Oct 2, 2026 — 3 pm · PSAT signup through current school\nOct 14, 2026 — 5 pm · $26 PSAT payment\nDate not confirmed — Final school-application deadline\nPSAT dates above apply to Jersey City residents attending non-JCPS schools. Ask your counselor for application instructions.",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "note": "PSAT signup: Oct 2",
+        "items": [
+          {
+            "date": "Oct 2, 2026",
+            "detail": "3 pm · PSAT signup through current school",
+            "id": "infinity-deadline-1",
+            "isoDate": "2026-10-02",
+            "kind": "Exam registration",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 14, 2026",
+            "detail": "5 pm · $26 PSAT payment",
+            "id": "infinity-deadline-2",
+            "isoDate": "2026-10-14",
+            "kind": "Exam payment",
+            "status": "verified"
+          },
+          {
+            "date": "Date not confirmed",
+            "detail": "Final school-application deadline",
+            "id": "infinity-deadline-3",
+            "isoDate": null,
+            "kind": "Application",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "PSAT dates above apply to Jersey City residents attending non-JCPS schools. Ask your counselor for application instructions."
+      },
+      "exam": {
+        "summary": "PSAT 8/9 · Oct 24",
+        "text": "PSAT 8/9: Oct 24, 2026 · MS #7, 222 Laidlaw Ave. Only offered date for Jersey City residents at non-JCPS schools. Signup/payment deadlines above; JCPS students ask their school.",
+        "url": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "note": "Register by Oct 2",
+        "examIds": [
+          "psat"
+        ],
+        "requirement": "Required; dates shown for non-JCPS students",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Public school; resident eligibility applies. Confirm any program fees.",
+        "status": "unknown",
+        "url": "https://www.jcboe.org/",
+        "amount": 0,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://infinity.jcboe.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://infinity.jcboe.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A-",
+        "text": "Overall Niche grade: A-. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/infinity-institute-jersey-city-nj/rankings/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "hudson-catholic",
+      "name": "Hudson Catholic Regional High School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://hudsoncatholic.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Not yet verified for fall 2027 entry.",
+        "status": "unknown",
+        "url": "https://hudsoncatholic.org/visit"
+      },
+      "visits": {
+        "summary": "Oct 18, 2026",
+        "text": "Oct 18, 2026 — Open house · Time in registration details\nRegister through the school’s linked form.",
+        "url": "https://hudsoncatholic.org/open-house",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 18, 2026",
+            "detail": "Open house · Time in registration details",
+            "id": "hudson-catholic-visits-1",
+            "isoDate": "2026-10-18",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register through the school’s linked form."
+      },
+      "deadline": {
+        "summary": "Not posted",
+        "text": "Date not posted — Contact admissions for the fall 2027 cutoff",
+        "url": "https://hudsoncatholic.org/apply",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "items": [
+          {
+            "date": "Date not posted",
+            "detail": "Contact admissions for the fall 2027 cutoff",
+            "id": "hudson-catholic-deadline-1",
+            "isoDate": null,
+            "kind": "Documents / aid",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "HSPT · Nov 6",
+        "text": "HSPT: Nov 6, 2026. Register at njcoopexam.org. School page has a conflicting entry-year label; confirm cycle and signup cutoff.",
+        "url": "https://hudsoncatholic.org/apply",
+        "status": "tentative",
+        "checked": "2026-09-22",
+        "examIds": [
+          "hspt"
+        ],
+        "requirement": "HSPT listed; confirm entry cycle",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$13,000 · 2026–27\nPlus $750 general fee, $400 new-student registration, $50 FACTS fee and $280 family fundraising. Other categories differ.",
+        "status": "verified",
+        "url": "https://hudsoncatholic.org/tuition-fees",
+        "amount": 13000,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://hudsoncatholic.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://hudsoncatholic.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A",
+        "text": "Overall Niche grade: A. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/hudson-catholic-regional-high-school-jersey-city-nj/rankings/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "pingry",
+      "name": "The Pingry School · Upper School",
+      "city": "Basking Ridge",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.pingry.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Use the inquiry form to access the application portal. Grade 9 has Early Action and Regular Decision rounds; submit required test scores and supporting materials.",
+        "status": "verified",
+        "url": "https://www.pingry.org/apply/applicationprocess/upperschooladmissions"
+      },
+      "visits": {
+        "summary": "Sep 30 · 6:30–8:30",
+        "text": "Sep 30, 2026 — 6:30–8:30 pm · Upper School open house, Basking Ridge\nRegister ahead. More tours in the admissions calendar.",
+        "url": "https://www.pingry.org/apply/applicationprocess",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 30, 2026",
+            "detail": "6:30–8:30 pm · Upper School open house, Basking Ridge",
+            "id": "pingry-visits-1",
+            "isoDate": "2026-09-30",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register ahead. More tours in the admissions calendar."
+      },
+      "deadline": {
+        "summary": "Nov 9 / Dec 14",
+        "text": "Nov 9, 2026 — Grade 9 Early Action application + aid\nDec 14, 2026 — Grade 9 Regular Decision application + aid",
+        "url": "https://www.pingry.org/apply/applicationprocess",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-11-09",
+          "2026-12-14"
+        ],
+        "items": [
+          {
+            "date": "Nov 9, 2026",
+            "detail": "Grade 9 Early Action application + aid",
+            "id": "pingry-deadline-1",
+            "isoDate": "2026-11-09",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 14, 2026",
+            "detail": "Grade 9 Regular Decision application + aid",
+            "id": "pingry-deadline-2",
+            "isoDate": "2026-12-14",
+            "kind": "Application",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required. Take Sep–Dec 2026, in time for your application round.",
+        "url": "https://www.pingry.org/apply/applicationprocess/upperschooladmissions",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$54,800 · 2025–26\nOlder published rate; not a 2027–28 quote. Mandatory lunch and other fees are extra.",
+        "status": "verified",
+        "url": "https://www.pingry.org/apply/affordingpingry",
+        "amount": 54800,
+        "year": "2025–26"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.pingry.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.pingry.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/the-pingry-school-basking-ridge-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "leman",
+      "name": "Léman Manhattan Preparatory School",
+      "city": "Manhattan · Financial District",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.lemanmanhattan.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Apply through Ravenna; schedule student and parent interviews and submit required school records and test scores.",
+        "status": "verified",
+        "url": "https://www.lemanmanhattan.org/apply_high_school.html"
+      },
+      "visits": {
+        "summary": "Book a tour",
+        "text": "By appointment — Morning or limited evening High School tours\nSelect a date in Ravenna; advance booking required.",
+        "url": "https://www.lemanmanhattan.org/visit",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "By appointment",
+            "detail": "Morning or limited evening High School tours",
+            "id": "leman-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Select a date in Ravenna; advance booking required."
+      },
+      "deadline": {
+        "summary": "Dec 1, 2026",
+        "text": "Dec 1, 2026 — Preliminary application + financial aid\nJan 8, 2027 — Supplemental materials\nUses the grades 9–12 table; the page’s introductory sentence has an outdated year.",
+        "url": "https://www.lemanmanhattan.org/timelines.html",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-12-01"
+        ],
+        "items": [
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Preliminary application + financial aid",
+            "id": "leman-deadline-1",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Supplemental materials",
+            "id": "leman-deadline-2",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Uses the grades 9–12 table; the page’s introductory sentence has an outdated year."
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required. Scores due Jan 8, 2027.",
+        "url": "https://www.lemanmanhattan.org/apply_high_school.html",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "note": "Scores by Jan 8",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": [
+          {
+            "id": "leman-scores-2027-01-08",
+            "isoDate": "2027-01-08",
+            "date": "Jan 8, 2027",
+            "detail": "ISEE / SSAT scores due",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
+      },
+      "tuition": {
+        "text": "$70,700 · 2026–27\nGrades 9–10 day tuition; grades 11–12: $72,000. Boarding not included in this comparison price.",
+        "status": "verified",
+        "url": "https://www.lemanmanhattan.org/tuition",
+        "amount": 70700,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Athletics, after-school clubs, film, music and theatre are included for grades 6–12 (athletics from grade 7).",
+        "status": "verified",
+        "url": "https://www.lemanmanhattan.org/tuition"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.lemanmanhattan.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/leman-manhattan-preparatory-school-new-york-ny/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "lrei",
+      "name": "LREI · Elisabeth Irwin High School",
+      "city": "Manhattan · Greenwich Village",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.lrei.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Ravenna application, parent/student interviews, essay, graded writing sample, transcripts and current math/English recommendations. Testing optional for fall 2027.",
+        "status": "verified",
+        "url": "https://www.lrei.org/admissions/admissions-process"
+      },
+      "visits": {
+        "summary": "Oct 20 · 6:30 pm",
+        "text": "Oct 20, 2026 — 6:30 pm · High School open house\nOct–Dec 2026 — Tuesday / Friday mornings · Tours\nRegister through Ravenna.",
+        "url": "https://www.lrei.org/admissions/visit-lrei",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 20, 2026",
+            "detail": "6:30 pm · High School open house",
+            "id": "lrei-visits-1",
+            "isoDate": "2026-10-20",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct–Dec 2026",
+            "detail": "Tuesday / Friday mornings · Tours",
+            "id": "lrei-visits-2",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register through Ravenna."
+      },
+      "deadline": {
+        "summary": "Dec 1, 2026",
+        "text": "Dec 1, 2026 — Application\nDec 15, 2026 — Financial aid\nJan 8, 2027 — Essay, writing sample, transcripts + recommendations",
+        "url": "https://www.lrei.org/admissions/admissions-process",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-12-01"
+        ],
+        "items": [
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Application",
+            "id": "lrei-deadline-1",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 15, 2026",
+            "detail": "Financial aid",
+            "id": "lrei-deadline-2",
+            "isoDate": "2026-12-15",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Essay, writing sample, transcripts + recommendations",
+            "id": "lrei-deadline-3",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "Test-optional",
+        "text": "ISEE / SSAT optional. If submitting, test by Jan 8, 2027.",
+        "url": "https://www.lrei.org/admissions/admissions-process",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Optional",
+        "milestones": [
+          {
+            "id": "lrei-scores-2027-01-08",
+            "isoDate": "2027-01-08",
+            "date": "Jan 8, 2027",
+            "detail": "Complete optional testing, if submitting",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
+      },
+      "tuition": {
+        "text": "$63,660 · 2026–27\nGrades 9–12. Many school expenses included; optional transport and international trips cost extra.",
+        "status": "verified",
+        "url": "https://www.lrei.org/admissions/tuition",
+        "amount": 63660,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Performing arts and athletics, including equipment and uniforms, are covered by tuition. Check the current club roster with the school.",
+        "status": "verified",
+        "url": "https://www.lrei.org/admissions/tuition"
+      },
+      "college": {
+        "text": "Historical 2022 enrollment list includes Brown (2), Cornell (1) and Penn (1), among other destinations. Older evidence; not a current cohort comparison or admission probability.",
+        "status": "verified",
+        "url": "https://blog.lrei.org/pkassen/2022/05/12/congratulations-class-of-2022/",
+        "summary": "2022 destinations"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/little-red-school-house-and-elisabeth-irwin-high-school-lrei-new-york-ny/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "horace-mann",
+      "name": "Horace Mann School",
+      "city": "Bronx · Riverdale",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.horacemann.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Ravenna application; student/parent interview, student essays and activity summary, teacher recommendations, grades, parent statement and testing.",
+        "status": "verified",
+        "url": "https://www.horacemann.org/admissions/applying-to-grades-6-11"
+      },
+      "visits": {
+        "summary": "Sep 27 / Oct 18",
+        "text": "Sep 27, 2026 — 2 pm · Upper Division information session\nOct 18, 2026 — 10 am · Upper Division information session\nOct 24, 2026 — Noon–2 pm · Athletics open house\nChoose one information session; register in Ravenna.",
+        "url": "https://www.horacemann.org/admissions/admissions-events",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 27, 2026",
+            "detail": "2 pm · Upper Division information session",
+            "id": "horace-mann-visits-1",
+            "isoDate": "2026-09-27",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 18, 2026",
+            "detail": "10 am · Upper Division information session",
+            "id": "horace-mann-visits-2",
+            "isoDate": "2026-10-18",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 24, 2026",
+            "detail": "Noon–2 pm · Athletics open house",
+            "id": "horace-mann-visits-3",
+            "isoDate": "2026-10-24",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Choose one information session; register in Ravenna."
+      },
+      "deadline": {
+        "text": "Oct 15, 2026 — Apply + schedule to guarantee an interview\nNov 15, 2026 — Financial aid\nNov 18, 2026 — Application\nJan 8, 2027 — Complete file, including scores",
+        "status": "verified",
+        "url": "https://www.horacemann.org/admissions/applying-to-grades-6-11",
+        "dates": [
+          "2026-10-15",
+          "2026-11-18"
+        ],
+        "summary": "Oct 15 / Nov 18",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 15, 2026",
+            "detail": "Apply + schedule to guarantee an interview",
+            "id": "horace-mann-deadline-1",
+            "isoDate": "2026-10-15",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 15, 2026",
+            "detail": "Financial aid",
+            "id": "horace-mann-deadline-2",
+            "isoDate": "2026-11-15",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 18, 2026",
+            "detail": "Application",
+            "id": "horace-mann-deadline-3",
+            "isoDate": "2026-11-18",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Complete file, including scores",
+            "id": "horace-mann-deadline-4",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "text": "ISEE required; SSAT accepted if also considering boarding schools. Scores due Jan 8, 2027.",
+        "status": "verified",
+        "url": "https://www.horacemann.org/admissions/applying-to-grades-6-11",
+        "summary": "ISEE; SSAT option",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "ISEE required; SSAT conditional for boarding-school applicants",
+        "milestones": [
+          {
+            "id": "horace-mann-scores-2027-01-08",
+            "isoDate": "2027-01-08",
+            "date": "Jan 8, 2027",
+            "detail": "Entrance-test scores due",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
+      },
+      "tuition": {
+        "text": "Current tuition and additional fees not yet verified.",
+        "status": "unknown",
+        "url": "https://www.horacemann.org/",
+        "amount": null,
+        "year": null
+      },
+      "activities": {
+        "text": "Student publications (including The Record), arts performances, international experiences and a summer internship program are described by the school.",
+        "status": "verified",
+        "url": "https://www.horacemann.org/upper-division-clone"
+      },
+      "college": {
+        "text": "2024–26 actual enrollment: Princeton 8, Cornell 45, Penn 23, Columbia 14, Brown 11, Yale 10, Harvard 9, Dartmouth 8. Cohorts total 539 graduates. These historical counts do not predict an applicant’s admission chances.",
+        "status": "verified",
+        "url": "https://www.horacemann.org/academic-life/college-counseling",
+        "summary": "2024–26 enrollment"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/horace-mann-school-bronx-ny/rankings/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "trinity",
+      "name": "Trinity School",
+      "city": "Manhattan · Upper West Side",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.trinityschoolnyc.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Grade 9 application, campus visit with conversation/group activity/writing assessment, school records, recommendations, essays and ISEE or SSAT.",
+        "status": "verified",
+        "url": "https://www.trinityschoolnyc.org/admissions/admissions-5-12"
+      },
+      "visits": {
+        "summary": "Oct 5 / Oct 27",
+        "text": "Oct 5, 2026 — 6–8 pm · Grade 9 open house\nOct 27, 2026 — 6–8 pm · Grade 9 open house\nVirtual livestream: 6–7 pm. Register ahead; attendance optional.",
+        "url": "https://www.trinityschoolnyc.org/admissions/admissions-5-12",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 5, 2026",
+            "detail": "6–8 pm · Grade 9 open house",
+            "id": "trinity-visits-1",
+            "isoDate": "2026-10-05",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 27, 2026",
+            "detail": "6–8 pm · Grade 9 open house",
+            "id": "trinity-visits-2",
+            "isoDate": "2026-10-27",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Virtual livestream: 6–7 pm. Register ahead; attendance optional."
+      },
+      "deadline": {
+        "summary": "Nov 15, 2026",
+        "text": "Nov 15, 2026 — Grade 9 application + campus-visit scheduling\nJan 8, 2027 — Supporting documents + financial aid",
+        "url": "https://www.trinityschoolnyc.org/admissions/admissions-5-12",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-11-15"
+        ],
+        "items": [
+          {
+            "date": "Nov 15, 2026",
+            "detail": "Grade 9 application + campus-visit scheduling",
+            "id": "trinity-deadline-1",
+            "isoDate": "2026-11-15",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Supporting documents + financial aid",
+            "id": "trinity-deadline-2",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT: take Aug–Dec 2026. Scores due Jan 8, 2027. Written assessment during campus visit.",
+        "url": "https://www.trinityschoolnyc.org/admissions/admissions-5-12",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "note": "Scores by Jan 8",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": [
+          {
+            "id": "trinity-scores-2027-01-08",
+            "isoDate": "2027-01-08",
+            "date": "Jan 8, 2027",
+            "detail": "ISEE / SSAT scores due",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
+      },
+      "tuition": {
+        "text": "Current tuition and additional fees not yet verified.",
+        "status": "unknown",
+        "url": "https://www.trinityschoolnyc.org/",
+        "amount": null,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.trinityschoolnyc.org/"
+      },
+      "college": {
+        "text": "Official college-enrollment / matriculation resource available. Cohort dates and counts still require review before calculating any percentage.",
+        "status": "unknown",
+        "url": "https://www.trinityschoolnyc.org/our-programs/college-counseling/matriculation",
+        "summary": "Enrollment list"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/trinity-school-new-york-ny/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "hudson-school",
+      "name": "The Hudson School",
+      "city": "Hoboken",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.thehudsonschool.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Apply through Ravenna. Choose Early Notification or Standard Notification and complete the student visit/interview and supplemental materials.",
+        "status": "verified",
+        "url": "https://www.thehudsonschool.org/admission/admissions-process/"
+      },
+      "visits": {
+        "summary": "Oct 15 / Nov 14",
+        "text": "Oct 15, 2026 — 8:15–10:30 am · Upper School open house\nNov 4, 2026 — 7–8 pm · Virtual panel, students only\nNov 14, 2026 — 10 am–1 pm · Drop-in open house\nRegister through Ravenna.",
+        "url": "https://www.thehudsonschool.org/admission/visit-us/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 15, 2026",
+            "detail": "8:15–10:30 am · Upper School open house",
+            "id": "hudson-school-visits-1",
+            "isoDate": "2026-10-15",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 4, 2026",
+            "detail": "7–8 pm · Virtual panel, students only",
+            "id": "hudson-school-visits-2",
+            "isoDate": "2026-11-04",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 14, 2026",
+            "detail": "10 am–1 pm · Drop-in open house",
+            "id": "hudson-school-visits-3",
+            "isoDate": "2026-11-14",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register through Ravenna."
+      },
+      "deadline": {
+        "summary": "Dec 1 / Jan 15",
+        "text": "Dec 1, 2026 — Early Notification application + aid\nDec 15, 2026 — Early Notification supplements\nJan 15, 2027 — Standard application + aid, grades 9–12\nJan 29, 2027 — Standard supplements",
+        "url": "https://www.thehudsonschool.org/admission/admissions-process/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-12-01",
+          "2027-01-15"
+        ],
+        "items": [
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Early Notification application + aid",
+            "id": "hudson-school-deadline-1",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 15, 2026",
+            "detail": "Early Notification supplements",
+            "id": "hudson-school-deadline-2",
+            "isoDate": "2026-12-15",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 15, 2027",
+            "detail": "Standard application + aid, grades 9–12",
+            "id": "hudson-school-deadline-3",
+            "isoDate": "2027-01-15",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 29, 2027",
+            "detail": "Standard supplements",
+            "id": "hudson-school-deadline-4",
+            "isoDate": "2027-01-29",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "Test-optional",
+        "text": "ISEE / SSAT optional. Ask about any student-visit assessment.",
+        "url": "https://www.thehudsonschool.org/admission/admissions-process/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Optional",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$32,980 · 2026–27\nPlus $2,500 one-time new-student building fee. International students have an additional fee.",
+        "status": "verified",
+        "url": "https://www.thehudsonschool.org/admission/tuition-financial-aid/",
+        "amount": 32980,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.thehudsonschool.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.thehudsonschool.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/the-hudson-school-hoboken-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "newark-academy",
+      "name": "Newark Academy",
+      "city": "Livingston",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.newarka.edu/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "For 2027–28: application, candidate/parent conversation, recommendations, grade reports and required ISEE or SSAT.",
+        "status": "verified",
+        "url": "https://www.newarka.edu/admission/apply"
+      },
+      "visits": {
+        "summary": "Oct 17 / Nov 15",
+        "text": "Oct 17, 2026 — 10 am–1 pm · All-school open house\nNov 15, 2026 — 1–4 pm · Upper School open house\nRegister ahead; additional Upper School tours available.",
+        "url": "https://www.newarka.edu/admission/visit",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 17, 2026",
+            "detail": "10 am–1 pm · All-school open house",
+            "id": "newark-academy-visits-1",
+            "isoDate": "2026-10-17",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 15, 2026",
+            "detail": "1–4 pm · Upper School open house",
+            "id": "newark-academy-visits-2",
+            "isoDate": "2026-11-15",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register ahead; additional Upper School tours available."
+      },
+      "deadline": {
+        "summary": "Dec 1, 2026",
+        "text": "Dec 1, 2026 — Application\nDec 15, 2026 — Prior transcript\nJan 11, 2027 — Supplemental materials",
+        "url": "https://www.newarka.edu/admission/apply",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-12-01"
+        ],
+        "items": [
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Application",
+            "id": "newark-academy-deadline-1",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 15, 2026",
+            "detail": "Prior transcript",
+            "id": "newark-academy-deadline-2",
+            "isoDate": "2026-12-15",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 11, 2027",
+            "detail": "Supplemental materials",
+            "id": "newark-academy-deadline-3",
+            "isoDate": "2027-01-11",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required; choose one. Confirm score delivery for Jan 11, 2027.",
+        "url": "https://www.newarka.edu/admission/apply",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$55,525 · 2026–27\nPlus $2,350 required lunch/technology fees and $100 first-year matriculation fee.",
+        "status": "verified",
+        "url": "https://www.newarka.edu/admission/tuition-and-financial-aid",
+        "amount": 55525,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.newarka.edu/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.newarka.edu/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/newark-academy-livingston-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "french-american",
+      "name": "The French American Academy · High School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://highschool.faacademy.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Apply online, then complete a family interview and MAP testing. Grades 9–11 accept students without prior French for 2027–28.",
+        "status": "verified",
+        "url": "https://faacademy.org/apply-now/"
+      },
+      "visits": {
+        "summary": "Oct 10 / Nov 7",
+        "text": "Oct 10, 2026 — 2 pm · Middle & High School open house\nNov 7, 2026 — 2 pm · Middle & High School open house\nRegister for the Jersey City Heights campus.",
+        "url": "https://faacademy.org/fr/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 10, 2026",
+            "detail": "2 pm · Middle & High School open house",
+            "id": "french-american-visits-1",
+            "isoDate": "2026-10-10",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 7, 2026",
+            "detail": "2 pm · Middle & High School open house",
+            "id": "french-american-visits-2",
+            "isoDate": "2026-11-07",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register for the Jersey City Heights campus."
+      },
+      "deadline": {
+        "summary": "Jan 22, 2027",
+        "text": "Jan 22, 2027 — Complete standard application, grades 9–11\nAfter Jan 22, 2027 — Rolling review, subject to places",
+        "url": "https://faacademy.org/apply-now/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2027-01-22"
+        ],
+        "items": [
+          {
+            "date": "Jan 22, 2027",
+            "detail": "Complete standard application, grades 9–11",
+            "id": "french-american-deadline-1",
+            "isoDate": "2027-01-22",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "After Jan 22, 2027",
+            "detail": "Rolling review, subject to places",
+            "id": "french-american-deadline-2",
+            "isoDate": null,
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "MAP · after applying",
+        "text": "MAP testing after applying; book with admissions. No common test date. No prior French required.",
+        "url": "https://faacademy.org/apply-now/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "map"
+        ],
+        "requirement": "Required",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$34,775 · 2026–27\nPublished grades 9–10 rate; verify enrollment and other applicable fees.",
+        "status": "verified",
+        "url": "https://highschool.faacademy.org/admissions/tuition",
+        "amount": 34775,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://highschool.faacademy.org/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://highschool.faacademy.org/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": null,
+        "text": "No overall school grade shown on the Niche profile reviewed. Uses the separate Middle & High School profile, not the other Jersey City campus.",
+        "url": "https://www.niche.com/k12/french-american-academy-of-jersey-city-middle-and-high-school-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "avenues",
+      "name": "Avenues New York",
+      "city": "Manhattan · Chelsea",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.avenues.org/new-york/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Preliminary application, parent conversation and student interview, statements, school documents and ISEE or SSAT. First Choice is binding.",
+        "status": "verified",
+        "url": "https://www.avenues.org/new-york/admissions"
+      },
+      "visits": {
+        "summary": "Oct 14 · virtual",
+        "text": "Oct 14, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nNov 10, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nDec 16, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nRequest an Upper Division campus visit through admissions.",
+        "url": "https://www.avenues.org/new-york/admissions",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Oct 14, 2026",
+            "detail": "5:30–6:30 pm · Virtual introduction + roundtable",
+            "id": "avenues-visits-1",
+            "isoDate": "2026-10-14",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 10, 2026",
+            "detail": "5:30–6:30 pm · Virtual introduction + roundtable",
+            "id": "avenues-visits-2",
+            "isoDate": "2026-11-10",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 16, 2026",
+            "detail": "5:30–6:30 pm · Virtual introduction + roundtable",
+            "id": "avenues-visits-3",
+            "isoDate": "2026-12-16",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Request an Upper Division campus visit through admissions."
+      },
+      "deadline": {
+        "summary": "Nov 1 / Dec 1",
+        "text": "Nov 1, 2026 — First Choice preliminary application · Binding\nNov 18, 2026 — First Choice complete file\nDec 1, 2026 — Regular preliminary application\nJan 8, 2027 — Regular complete file",
+        "url": "https://www.avenues.org/new-york/admissions",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-11-01",
+          "2026-12-01"
+        ],
+        "items": [
+          {
+            "date": "Nov 1, 2026",
+            "detail": "First Choice preliminary application · Binding",
+            "id": "avenues-deadline-1",
+            "isoDate": "2026-11-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 18, 2026",
+            "detail": "First Choice complete file",
+            "id": "avenues-deadline-2",
+            "isoDate": "2026-11-18",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Regular preliminary application",
+            "id": "avenues-deadline-3",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Regular complete file",
+            "id": "avenues-deadline-4",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required. Complete by Nov 18, 2026 (First Choice) or Jan 8, 2027 (Regular).",
+        "url": "https://www.avenues.org/new-york/admissions",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$75,300 · 2026–27\nIncludes materials, meals and educational technology. Optional programs and school transport are extra.",
+        "status": "verified",
+        "url": "https://www.avenues.org/new-york/admissions/tuition-and-financial-aid",
+        "amount": 75300,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.avenues.org/new-york/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.avenues.org/new-york/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/avenues-the-world-school-new-york-ny/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "dwight",
+      "name": "Dwight School New York",
+      "city": "Manhattan · Upper West Side",
+      "state": "NY",
+      "region": "New York City",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://www.dwight.edu/newyork",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Apply through Ravenna, complete the student interview, send official transcripts, math/English recommendations and ISEE or SSAT scores.",
+        "status": "verified",
+        "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school"
+      },
+      "visits": {
+        "summary": "Book in Ravenna",
+        "text": "Fall · dates in Ravenna — Upper School open houses + tours\nRegistration required. Interview bookings do not include tours.",
+        "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Fall · dates in Ravenna",
+            "detail": "Upper School open houses + tours",
+            "id": "dwight-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Registration required. Interview bookings do not include tours."
+      },
+      "deadline": {
+        "summary": "Nov 13 / Dec 1",
+        "text": "Nov 13, 2026 — Early Decision application · Binding\nNov 20, 2026 — Early Decision aid + supporting forms\nDec 1, 2026 — Regular application + aid\nJan 8, 2027 — Regular supporting forms",
+        "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-11-13",
+          "2026-12-01"
+        ],
+        "items": [
+          {
+            "date": "Nov 13, 2026",
+            "detail": "Early Decision application · Binding",
+            "id": "dwight-deadline-1",
+            "isoDate": "2026-11-13",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 20, 2026",
+            "detail": "Early Decision aid + supporting forms",
+            "id": "dwight-deadline-2",
+            "isoDate": "2026-11-20",
+            "kind": "Documents / aid",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 1, 2026",
+            "detail": "Regular application + aid",
+            "id": "dwight-deadline-3",
+            "isoDate": "2026-12-01",
+            "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "Regular supporting forms",
+            "id": "dwight-deadline-4",
+            "isoDate": "2027-01-08",
+            "kind": "Documents / aid",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required. Testing due Nov 20, 2026 (Early) or Jan 8, 2027 (Regular).",
+        "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "note": "Nov 20 / Jan 8",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": [
+          {
+            "id": "dwight-scores-2026-11-20",
+            "isoDate": "2026-11-20",
+            "date": "Nov 20, 2026",
+            "detail": "Early Decision testing due",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          },
+          {
+            "id": "dwight-scores-2027-01-08",
+            "isoDate": "2027-01-08",
+            "date": "Jan 8, 2027",
+            "detail": "Regular Decision testing due",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
+      },
+      "tuition": {
+        "text": "$69,950 · 2026–27\nPlus application, registration, technology and parent-association fees. Grades 11–12 have an IB fee; other costs vary.",
+        "status": "verified",
+        "url": "https://www.dwight.edu/newyork/admissions/tuition-financial-aid",
+        "amount": 69950,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "After-school clubs, athletics, community service, internships, Spark Tank and trips/exchanges are listed by the school.",
+        "status": "verified",
+        "url": "https://www.dwight.edu/newyork/admissions/tuition-financial-aid"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.dwight.edu/newyork",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/dwight-school-new-york-ny/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "hoboken-high",
+      "name": "Hoboken High School",
+      "city": "Hoboken",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://www.hoboken.k12.nj.us/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Resident enrollment and nonresident School Choice follow different processes. The published Choice pathway information is for 2026–27; confirm 2027–28 eligibility and spaces with the district enrollment office.",
+        "status": "unknown",
+        "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice"
+      },
+      "visits": {
+        "summary": "Request a shadow day",
+        "text": "October onward — Redwing for a Day · School assigns date\nDate not confirmed — Fall 2027 applicant showcase\nSubmit a visit request through the school.",
+        "url": "https://www.hoboken.k12.nj.us/summer_programs/hoboken_high_school/redwing_for_a_day",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "October onward",
+            "detail": "Redwing for a Day · School assigns date",
+            "id": "hoboken-high-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Date not confirmed",
+            "detail": "Fall 2027 applicant showcase",
+            "id": "hoboken-high-visits-2",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Submit a visit request through the school."
+      },
+      "deadline": {
+        "summary": "Confirm with district",
+        "text": "Date not confirmed — 2027–28 School Choice application cutoff\nThe page still lists Nov 24, 2025 for the old cycle. Nonresident applicants: 201-356-3619. Resident enrollment is separate.",
+        "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "items": [
+          {
+            "date": "Date not confirmed",
+            "detail": "2027–28 School Choice application cutoff",
+            "id": "hoboken-high-deadline-1",
+            "isoDate": null,
+            "kind": "Application",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "The page still lists Nov 24, 2025 for the old cycle. Nonresident applicants: 201-356-3619. Resident enrollment is separate."
+      },
+      "exam": {
+        "summary": "Confirm with district",
+        "text": "2027–28 exam policy unconfirmed. Ask the district about your chosen pathway.",
+        "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "examIds": [],
+        "requirement": "Confirm with school",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Public school. Nonresident access and any tuition arrangement must be confirmed; no transferable price assumed.",
+        "status": "unknown",
+        "url": "https://www.hoboken.k12.nj.us/",
+        "amount": null,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.hoboken.k12.nj.us/"
+      },
+      "college": {
+        "text": "Recent outcomes and cohort counts have not yet been verified. No comparable Ivy placement rate available.",
+        "status": "unknown",
+        "url": "https://www.hoboken.k12.nj.us/",
+        "summary": "Not verified"
+      },
+      "niche": {
+        "grade": "A-",
+        "text": "Overall Niche grade: A-. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/hoboken-high-school-hoboken-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "delbarton",
+      "name": "Delbarton School",
+      "city": "Morristown",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Boys-only",
+      "website": "https://www.delbarton.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Online application, school records and recommendations, on-campus family interview and the Delbarton entrance exam.",
+        "status": "verified",
+        "url": "https://www.delbarton.org/admissions/application-procedure"
+      },
+      "visits": {
+        "summary": "Sep 27 · noon–3",
+        "text": "Sep 27, 2026 — Noon–3 pm · Open house\nRegister through the school’s inquiry form.",
+        "url": "https://www.delbarton.org/admissions",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 27, 2026",
+            "detail": "Noon–3 pm · Open house",
+            "id": "delbarton-visits-1",
+            "isoDate": "2026-09-27",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Register through the school’s inquiry form."
+      },
+      "deadline": {
+        "summary": "Nov 30, 2026",
+        "text": "Nov 30, 2026 — Application, paperwork + financial assistance\nSelect your exam date when applying. The December exam follows this paperwork deadline.",
+        "url": "https://www.delbarton.org/admissions/application-procedure",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2026-11-30"
+        ],
+        "items": [
+          {
+            "date": "Nov 30, 2026",
+            "detail": "Application, paperwork + financial assistance",
+            "id": "delbarton-deadline-1",
+            "isoDate": "2026-11-30",
+            "kind": "Application",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Select your exam date when applying. The December exam follows this paperwork deadline."
+      },
+      "exam": {
+        "summary": "Oct 24 / Dec 5",
+        "text": "School exam: Oct 24 or Dec 5, 2026. Reading, language, math + writing. Book in application; confirm arrival time.",
+        "url": "https://www.delbarton.org/admissions/application-procedure",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "delbarton-exam"
+        ],
+        "requirement": "Required",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Current tuition and additional fees not yet verified.",
+        "status": "unknown",
+        "url": "https://www.delbarton.org/",
+        "amount": null,
+        "year": null
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://www.delbarton.org/"
+      },
+      "college": {
+        "text": "School publishes a Class of 2025 college matriculation list. Counts and class-size denominator have not been audited here.",
+        "status": "verified",
+        "url": "https://resources.finalsite.net/images/v1747749986/delbarton/pkfzwjb8ptu2kqe5j90d/2025CollegesbyMatriculation51225.pdf",
+        "summary": "2025 destinations"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/delbarton-school-morristown-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "kindle",
+      "name": "Kindle Education Public Charter School",
+      "city": "Jersey City",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Public",
+      "gender": "Co-ed",
+      "website": "https://www.kindleeducation.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Open enrollment; lottery if oversubscribed. Applications for 2027–28 open Oct 1. Confirm residence priority and required enrollment documents.",
+        "status": "verified",
+        "url": "https://www.kindleeducation.org/enroll"
+      },
+      "visits": {
+        "summary": "Open-house signup",
+        "text": "Dates in signup form — High School open house\nDates could not be retrieved; check the form or contact the school.",
+        "url": "https://www.kindleeducation.org/enroll",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Dates in signup form",
+            "detail": "High School open house",
+            "id": "kindle-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Dates could not be retrieved; check the form or contact the school."
+      },
+      "deadline": {
+        "summary": "Opens Oct 1",
+        "text": "Oct 1, 2026 — 2027–28 applications open\nDate not posted — Lottery-entry cutoff\nThe completed-lottery notice refers to the previous cycle.",
+        "url": "https://www.kindleeducation.org/enroll",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "items": [
+          {
+            "date": "Oct 1, 2026",
+            "detail": "2027–28 applications open",
+            "id": "kindle-deadline-1",
+            "isoDate": "2026-10-01",
+            "kind": "Applications open",
+            "status": "verified"
+          },
+          {
+            "date": "Date not posted",
+            "detail": "Lottery-entry cutoff",
+            "id": "kindle-deadline-2",
+            "isoDate": null,
+            "kind": "Documents / aid",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "The completed-lottery notice refers to the previous cycle."
+      },
+      "exam": {
+        "text": "No exam. Lottery if oversubscribed.",
+        "status": "verified",
+        "url": "https://www.kindleeducation.org/faqs",
+        "summary": "No exam · lottery",
+        "checked": "2026-09-22",
+        "examIds": [],
+        "requirement": "No exam; lottery if oversubscribed",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "Tuition-free public charter school.",
+        "status": "verified",
+        "url": "https://www.kindleeducation.org/faqs",
+        "amount": 0,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "School describes sports, internships and extracurricular opportunities; the high-school club roster still needs checking.",
+        "status": "verified",
+        "url": "https://www.kindleeducation.org/high-school"
+      },
+      "college": {
+        "text": "No graduating high-school cohort yet: first grade-9 class starts in fall 2026. College placement history is not yet available.",
+        "status": "verified",
+        "url": "https://www.kindleeducation.org/high-school",
+        "summary": "No graduates yet"
+      },
+      "niche": {
+        "grade": null,
+        "text": "No overall school grade shown on the Niche profile reviewed. Niche currently lists grades 6–7; this is not a rating of the new high school.",
+        "url": "https://www.niche.com/k12/kindle-education-public-charter-school-jersey-city-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "peddie",
+      "name": "Peddie School",
+      "city": "Hightstown",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Co-ed",
+      "website": "https://peddie.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Submit SAO or Gateway application, required interview, school transcripts, recommendations, student essays, school supplement and required test scores.",
+        "status": "verified",
+        "url": "https://peddie.org/admission/how-to-apply/"
+      },
+      "visits": {
+        "summary": "Arrange a visit",
+        "text": "By appointment — Tour + required interview\nBook: admission@peddie.org / 609-944-7501. Public tour text has an old cycle label; confirm availability.",
+        "url": "https://peddie.org/admission/admission-events/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "By appointment",
+            "detail": "Tour + required interview",
+            "id": "peddie-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Book: admission@peddie.org / 609-944-7501. Public tour text has an old cycle label; confirm availability."
+      },
+      "deadline": {
+        "summary": "Jan 15, 2027",
+        "text": "Jan 15, 2027 — Application through SAO or Gateway\nYear established from the transcript years requested on the current page.",
+        "url": "https://peddie.org/admission/how-to-apply/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "dates": [
+          "2027-01-15"
+        ],
+        "items": [
+          {
+            "date": "Jan 15, 2027",
+            "detail": "Application through SAO or Gateway",
+            "id": "peddie-deadline-1",
+            "isoDate": "2027-01-15",
+            "kind": "Application",
+            "status": "verified"
+          }
+        ],
+        "detailNote": "Year established from the transcript years requested on the current page."
+      },
+      "exam": {
+        "summary": "ISEE / SSAT",
+        "text": "ISEE / SSAT required. Arrange scores for the Jan 15, 2027 deadline; confirm delivery with admissions.",
+        "url": "https://peddie.org/admission/how-to-apply/",
+        "status": "verified",
+        "checked": "2026-09-22",
+        "examIds": [
+          "isee",
+          "ssat"
+        ],
+        "requirement": "Required: choose ISEE or SSAT",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$69,300 · 2026–27\nDay tuition. Boarding: $81,000 annually. Verify any personal expenses.",
+        "status": "verified",
+        "url": "https://peddie.org/admission/tuition-affordability/",
+        "amount": 69300,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "Current club and sports offerings still need checking.",
+        "status": "unknown",
+        "url": "https://peddie.org/"
+      },
+      "college": {
+        "text": "School publishes a Class of 2026 matriculation list. Individual college counts and a matching class-size denominator have not been audited here.",
+        "status": "verified",
+        "url": "https://peddie.org/peddie-education/academics/college-counseling/matriculation-list/",
+        "summary": "2026 destinations"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/the-peddie-school-hightstown-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    },
+    {
+      "id": "seton-hall",
+      "name": "Seton Hall Prep",
+      "city": "West Orange",
+      "state": "NJ",
+      "region": "New Jersey",
+      "type": "Private",
+      "gender": "Boys-only",
+      "website": "https://www.shp.org/",
+      "reviewed": "2026-09-22",
+      "admissions": {
+        "text": "Complete online application and school entrance exam; admission considers the exam and grades 6–8 records. Class of 2031 decisions mailed Jan 14, 2027.",
+        "status": "verified",
+        "url": "https://www.shp.org/admissions/ninth-grade-admission-process"
+      },
+      "visits": {
+        "text": "Sep 28, 2026 onward — Freshman for a Day\nOct 25, 2026 — Open house · Confirm time when registering",
+        "status": "verified",
+        "url": "https://www.shp.org/admissions/open-house",
+        "summary": "Oct 25, 2026",
+        "checked": "2026-09-22",
+        "items": [
+          {
+            "date": "Sep 28, 2026 onward",
+            "detail": "Freshman for a Day",
+            "id": "seton-hall-visits-1",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 25, 2026",
+            "detail": "Open house · Confirm time when registering",
+            "id": "seton-hall-visits-2",
+            "isoDate": "2026-10-25",
+            "kind": "Visit",
+            "status": "verified"
+          }
+        ],
+        "detailNote": ""
+      },
+      "deadline": {
+        "summary": "Confirm with school",
+        "text": "Date not posted — Final application + materials cutoff\nDec 12, 2026 — Last listed entrance exam · Apply before booking\nConfirm the deadline with admissions: 973-325-6640.",
+        "url": "https://www.shp.org/admissions/ninth-grade-admission-process",
+        "status": "unknown",
+        "checked": "2026-09-22",
+        "dates": [],
+        "items": [
+          {
+            "date": "Date not posted",
+            "detail": "Final application + materials cutoff",
+            "id": "seton-hall-deadline-1",
+            "isoDate": null,
+            "kind": "Application",
+            "status": "unknown"
+          },
+          {
+            "date": "Dec 12, 2026",
+            "detail": "Last listed entrance exam · Apply before booking",
+            "id": "seton-hall-deadline-2",
+            "isoDate": "2026-12-12",
+            "kind": "Exam",
+            "status": "unknown"
+          }
+        ],
+        "detailNote": "Confirm the deadline with admissions: 973-325-6640."
+      },
+      "exam": {
+        "text": "School exam: Nov 7, 21 or Dec 5, 12, 2026 · 2 hours. Book through application. No substitute tests.",
+        "status": "verified",
+        "url": "https://www.shp.org/admissions/ninth-grade-admission-process",
+        "summary": "School exam · Nov–Dec",
+        "checked": "2026-09-22",
+        "examIds": [
+          "seton-exam"
+        ],
+        "requirement": "Required",
+        "milestones": []
+      },
+      "tuition": {
+        "text": "$26,800 · 2026–27\nComprehensive tuition; $100 one-time registration and a final-year graduation fee are extra.",
+        "status": "verified",
+        "url": "https://www.shp.org/admissions/tuition-scholarship-and-financial-assistance",
+        "amount": 26800,
+        "year": "2026–27"
+      },
+      "activities": {
+        "text": "School lists 15 sports, 70+ clubs and activities, intramurals, performing arts and service opportunities.",
+        "status": "verified",
+        "url": "https://www.shp.org/admissions/ninth-grade-admission-process"
+      },
+      "college": {
+        "text": "Class of 2026: 219 graduates; school publishes a matriculation map. Historical student-level 2022 placement records are also available. No current comparable Ivy percentage established.",
+        "status": "verified",
+        "url": "https://www.shp.org/news-detail?fromId=252314&pk=1630275",
+        "summary": "2026 destinations"
+      },
+      "niche": {
+        "grade": "A+",
+        "text": "Overall Niche grade: A+. School-profile grade; may cover more than the high-school division.",
+        "url": "https://www.niche.com/k12/seton-hall-preparatory-school-west-orange-nj/",
+        "status": "external",
+        "checked": "2026-09-22",
+        "metric": "Overall Niche Grade"
+      }
+    }
+  ],
+  "exams": [
+    {
+      "id": "isee",
+      "name": "ISEE",
+      "registration": "Choose a date in the registration portal",
+      "registrationUrl": "https://iseeonline.erblearn.org/",
+      "notes": "Date and signup cutoff depend on your test location and format. Allow time for scores to reach each school; school-specific deadlines are below.",
+      "events": [
+        {
+          "id": "isee-book",
+          "isoDate": null,
+          "date": "Choose a date",
+          "detail": "Book ISEE in time for school deadlines",
+          "kind": "Exam registration",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://iseeonline.erblearn.org/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "ssat",
+      "name": "SSAT",
+      "registration": "Register for your chosen test date",
+      "registrationUrl": "https://portal.ssat.org/",
+      "notes": "Paper dates below are alternatives, not a requirement to sit every test. Availability varies by center. January/March dates are too late for some schools. Accommodated registration closes earlier; check the official schedule. Scores can take about two weeks after materials arrive.",
+      "events": [
+        {
+          "id": "ssat-reg-2026-10-10",
+          "isoDate": "2026-10-07",
+          "date": "Oct 7, 2026",
+          "detail": "Final signup for 2026-10-10 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2026-10-10",
+          "isoDate": "2026-10-10",
+          "date": "Oct 10, 2026",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-reg-2026-11-14",
+          "isoDate": "2026-11-11",
+          "date": "Nov 11, 2026",
+          "detail": "Final signup for 2026-11-14 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2026-11-14",
+          "isoDate": "2026-11-14",
+          "date": "Nov 14, 2026",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-reg-2026-12-12",
+          "isoDate": "2026-12-09",
+          "date": "Dec 9, 2026",
+          "detail": "Final signup for 2026-12-12 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2026-12-12",
+          "isoDate": "2026-12-12",
+          "date": "Dec 12, 2026",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-reg-2027-01-09",
+          "isoDate": "2027-01-06",
+          "date": "Jan 6, 2027",
+          "detail": "Final signup for 2027-01-09 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2027-01-09",
+          "isoDate": "2027-01-09",
+          "date": "Jan 9, 2027",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-reg-2027-01-30",
+          "isoDate": "2027-01-27",
+          "date": "Jan 27, 2027",
+          "detail": "Final signup for 2027-01-30 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2027-01-30",
+          "isoDate": "2027-01-30",
+          "date": "Jan 30, 2027",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-reg-2027-03-13",
+          "isoDate": "2027-03-10",
+          "date": "Mar 10, 2027",
+          "detail": "Final signup for 2027-03-13 paper SSAT (late fees may apply)",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "ssat-2027-03-13",
+          "isoDate": "2027-03-13",
+          "date": "Mar 13, 2027",
+          "detail": "Paper SSAT · one available test date",
+          "kind": "Exam",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://www.admission.org/assessments/ssat/paper",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "hspt",
+      "name": "COOP / HSPT",
+      "registration": "Register online; Catholic-school pupils follow school instructions",
+      "registrationUrl": "https://njcoopexam.org/register.php",
+      "notes": "Current eighth graders. Participating Catholic elementary schools have earlier requirements. The official schedule has a conflicting October 24 date in an accommodations paragraph; use October 23 as the general cutoff and confirm accommodations separately.",
+      "events": [
+        {
+          "id": "hspt-school-info",
+          "isoDate": "2026-09-30",
+          "date": "Sep 30, 2026",
+          "detail": "Catholic-school pupils: information due to current school",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-catholic-reg",
+          "isoDate": "2026-10-09",
+          "date": "Oct 9, 2026",
+          "detail": "Participating Catholic-school registration deadline",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-accommodations",
+          "isoDate": "2026-10-20",
+          "date": "Oct 20, 2026",
+          "detail": "Extended-time documents due",
+          "kind": "Documents / aid",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-reg",
+          "isoDate": "2026-10-23",
+          "date": "Oct 23, 2026",
+          "detail": "General registration closes",
+          "kind": "Exam registration",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-test",
+          "isoDate": "2026-11-06",
+          "date": "Nov 6, 2026",
+          "detail": "HSPT · 8–11:45 am; extended time to 1 pm",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-makeup",
+          "isoDate": "2026-11-14",
+          "date": "Nov 14, 2026",
+          "detail": "Makeup only · registered students unable to attend Nov 6",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "hspt-records",
+          "isoDate": "2026-12-09",
+          "date": "Dec 9, 2026",
+          "detail": "Ninth Grade Applicant Records due at schools",
+          "kind": "Documents / aid",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://njcoopexam.org/docs/115-2026-IMPORTANT-DATES.pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "psat",
+      "name": "PSAT 8/9 · Jersey City",
+      "registration": "Register through the current school, not College Board",
+      "registrationUrl": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+      "notes": "For Jersey City residents at private, charter, parochial or other non-JCPS schools. JCPS students must ask their school for their schedule.",
+      "events": [
+        {
+          "id": "jc-psat-test",
+          "isoDate": "2026-10-24",
+          "date": "Oct 24, 2026",
+          "detail": "PSAT 8/9 · MS #7, 222 Laidlaw Ave; only district date for non-JCPS students",
+          "kind": "Exam",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://4.files.edl.io/c81c/09/15/26/152526-13cfba05-3293-44d5-baa7-0d6d675a42db.pdf",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "tachs",
+      "name": "TACHS",
+      "registration": "Check the organizer’s registration instructions",
+      "registrationUrl": "https://tachsinfo.com/",
+      "notes": "Accepted as an alternative by Saint Peter’s Prep. Current test and registration dates were not confirmed.",
+      "events": [
+        {
+          "id": "tachs-check",
+          "isoDate": null,
+          "date": "Dates unconfirmed",
+          "detail": "Confirm TACHS registration and test date",
+          "kind": "Exam registration",
+          "status": "unknown"
+        }
+      ],
+      "sourceUrl": "https://tachsinfo.com/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "delbarton-exam",
+      "name": "Delbarton entrance exam",
+      "registration": "Select your exam date in the school application",
+      "registrationUrl": "https://www.delbarton.org/admissions/application-procedure",
+      "notes": "Reading, language, math and writing; confirm arrival time.",
+      "events": [
+        {
+          "id": "delbarton-test-oct",
+          "isoDate": "2026-10-24",
+          "date": "Oct 24, 2026",
+          "detail": "Delbarton exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "delbarton-test-dec",
+          "isoDate": "2026-12-05",
+          "date": "Dec 5, 2026",
+          "detail": "Delbarton exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://www.delbarton.org/admissions/application-procedure",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "seton-exam",
+      "name": "Seton Hall Prep entrance exam",
+      "registration": "Book through the school application",
+      "registrationUrl": "https://www.shp.org/admissions/ninth-grade-admission-process",
+      "notes": "Two hours. Other tests cannot substitute. Apply before booking; confirm registration cutoff.",
+      "events": [
+        {
+          "id": "seton-test-2026-11-07",
+          "isoDate": "2026-11-07",
+          "date": "Nov 7, 2026",
+          "detail": "Seton Hall Prep exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "seton-test-2026-11-21",
+          "isoDate": "2026-11-21",
+          "date": "Nov 21, 2026",
+          "detail": "Seton Hall Prep exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "seton-test-2026-12-05",
+          "isoDate": "2026-12-05",
+          "date": "Dec 5, 2026",
+          "detail": "Seton Hall Prep exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "seton-test-2026-12-12",
+          "isoDate": "2026-12-12",
+          "date": "Dec 12, 2026",
+          "detail": "Seton Hall Prep exam · choose one sitting",
+          "kind": "Exam",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://www.shp.org/admissions/ninth-grade-admission-process",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "map",
+      "name": "MAP · French American Academy",
+      "registration": "Arrange with admissions after applying",
+      "registrationUrl": "https://faacademy.org/apply-now/",
+      "notes": "Scheduled alongside the family interview. No shared test date published.",
+      "events": [
+        {
+          "id": "faa-map-book",
+          "isoDate": null,
+          "date": "After applying",
+          "detail": "Arrange MAP testing with admissions",
+          "kind": "Exam registration",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://faacademy.org/apply-now/",
+      "checked": "2026-09-22"
+    },
+    {
+      "id": "audition",
+      "name": "HCST arts auditions",
+      "registration": "Check your chosen major’s instructions",
+      "registrationUrl": "https://hcstonline.org/admissions/",
+      "notes": "High Tech / County Prep: only applicable arts programs. No PSAT required.",
+      "events": [
+        {
+          "id": "hcst-audition-dec5",
+          "isoDate": "2026-12-05",
+          "date": "Dec 5, 2026",
+          "detail": "Arts audition · date depends on major",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "id": "hcst-audition-dec12",
+          "isoDate": "2026-12-12",
+          "date": "Dec 12, 2026",
+          "detail": "Arts audition · date depends on major",
+          "kind": "Exam",
+          "status": "verified"
+        }
+      ],
+      "sourceUrl": "https://hcstonline.org/admissions/",
+      "checked": "2026-09-22"
+    }
+  ]
+}
