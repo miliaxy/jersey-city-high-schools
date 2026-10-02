@@ -54,7 +54,7 @@ assert(vm.runInContext("field('Niche rating',schools[0].niche)",ctx).includes('N
 assert(vm.runInContext("field('Niche rating',schools[0].niche)",ctx).includes('Checked 2026-09-22'));
 console.log('Passed: Niche source coverage, external labels, checked dates and grade sorting with missing grades last.');
 
-for(const school of data.schools)for(const key of ['visits','deadline','exam'])assert.equal(school[key].checked,'2026-09-22');
+for(const school of data.schools)for(const key of ['visits','deadline','exam'])assert(['2026-09-22','2026-10-02'].includes(school[key].checked));
 assert(!vm.runInContext("field('Entrance exam',schools.find(s=>s.id==='franklin').exam)",ctx).includes('Niche grade'));
 assert(vm.runInContext("compact(schools.find(s=>s.id==='mcnair'),'exam')",ctx).includes('Register by Oct 2'));
 for(const id of ['mcnair','infinity']){const s=data.schools.find(s=>s.id===id);assert.equal(s.deadline.dates.length,0);assert(s.exam.text.includes('Oct 24, 2026'));}
@@ -104,3 +104,30 @@ element('exam-school').value='franklin';vm.runInContext('renderExams()',ctx);ass
 vm.runInContext("setTab('exams')",ctx);assert.equal(element('panel-dates').hidden,true);assert.equal(element('panel-exams').hidden,false);
 savedProgress.set('jersey-city-high-schools:2027:completed','not json');vm.runInContext('readProgress();renderDates()',ctx);assert(element('progress-note').textContent.includes('unavailable'));
 console.log('Passed: tab switching, shared events, undated handling, school filters, exam alternatives, completion persistence and invalid storage fallback.');
+
+// Refresh regression checks: preserve uncertainty, date semantics and existing checklist keys.
+const schoolById=id=>data.schools.find(s=>s.id===id);
+for(const id of ['high-tech','county-prep']){
+ const d=schoolById(id).deadline;
+ assert.deepEqual(d.dates,['2026-11-13']);
+ assert(d.items.some(i=>i.kind==='Applications open'&&i.isoDate==='2026-10-05'));
+ assert(d.items.some(i=>i.id===id+'-deadline-1'&&i.isoDate==='2026-11-13'));
+}
+for(const id of ['pingry','delbarton']){
+ const f=schoolById(id)[id==='pingry'?'visits':'deadline'];
+ assert.equal(f.status,'tentative');
+ assert(f.items.filter(i=>i.status==='tentative').every(i=>i.isoDate===null));
+}
+assert.deepEqual(schoolById('delbarton').deadline.dates,[]);
+assert.deepEqual(schoolById('kindle').deadline.dates,['2027-02-15']);
+assert.deepEqual(schoolById('hoboken-high').deadline.dates,['2026-11-24']);
+assert(schoolById('horace-mann').deadline.items.find(i=>i.id==='horace-mann-deadline-1').detail.includes('prior two years'));
+assert.equal(schoolById('pingry').exam.milestones.length,2);
+const tachs=data.exams.find(e=>e.id==='tachs');
+assert.equal(tachs.events.find(e=>e.id==='tachs-check').isoDate,'2026-10-28');
+assert.equal(tachs.events.filter(e=>e.kind==='Exam').length,2);
+assert(events.some(e=>e.id==='franklin-applications-open'&&e.url==='https://www.franklinjc.org/admissions/apply'));
+assert(vm.runInContext("evidence({status:'tentative',sources:[{label:'<bad>',url:'javascript:alert(1)'}]})",ctx).includes('href="#"'));
+assert(vm.runInContext("evidence({status:'tentative',sources:[{label:'<bad>',url:'https://example.com'}]})",ctx).includes('&lt;bad&gt;'));
+for(const school of data.schools)for(const key of ['admissions','visits','deadline','exam'])for(const source of school[key].sources||[])assert.equal(new URL(source.url).protocol,'https:');
+console.log('Passed: refreshed deadlines, application-opening semantics, conflicts, score milestones, TACHS alternatives, stable checklist keys and escaped supplemental sources.');

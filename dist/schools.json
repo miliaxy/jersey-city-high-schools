@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-10-02",
   "entryYear": "2027–28",
   "provenance": "Initial school list and tentative dates transcribed from a parent-supplied high school application guide. Guide dates do not explicitly state a year. No personal records or private guide URL included.",
   "schools": [
@@ -12,11 +12,18 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.franklinjc.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
-        "text": "Apply through the school’s admissions process and complete materials and interview. Early Decision is binding after accepting the offer. The FAQ has a conflicting November date; use the dated admissions-process page and confirm with admissions.",
+        "text": "Apply through the school’s admissions process and complete materials and interview. Early Decision is binding after accepting the offer. The process page and FAQ agree: November 13, 2026 Early Decision and January 15, 2027 Regular Decision.",
         "status": "verified",
-        "url": "https://www.franklinjc.org/admissions/admission-process"
+        "url": "https://www.franklinjc.org/admissions/admission-process",
+        "checked": "2026-10-02",
+        "sources": [
+          {
+            "label": "Admissions FAQ",
+            "url": "https://www.franklinjc.org/admissions/faqs"
+          }
+        ]
       },
       "visits": {
         "summary": "Oct 7 + 3 dates",
@@ -61,7 +68,7 @@
         "detailNote": "Register in advance."
       },
       "deadline": {
-        "text": "Nov 13, 2026 — Early Decision application + aid\nNov 20, 2026 — Early Decision materials + interview\nJan 15, 2027 — Regular application + aid\nJan 29, 2027 — Regular materials + interview",
+        "text": "Jul 1, 2026 — 2027–28 applications open\nNov 13, 2026 — Early Decision application + aid\nNov 20, 2026 — Early Decision materials + interview\nJan 15, 2027 — Regular application + aid\nJan 29, 2027 — Regular materials + interview",
         "status": "verified",
         "url": "https://www.franklinjc.org/admissions/admission-process",
         "dates": [
@@ -69,8 +76,17 @@
           "2027-01-15"
         ],
         "summary": "Nov 13 / Jan 15",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
+          {
+            "date": "Jul 1, 2026",
+            "detail": "2027–28 applications open",
+            "id": "franklin-applications-open",
+            "isoDate": "2026-07-01",
+            "kind": "Applications open",
+            "status": "verified",
+            "url": "https://www.franklinjc.org/admissions/apply"
+          },
           {
             "date": "Nov 13, 2026",
             "detail": "Early Decision application + aid",
@@ -104,7 +120,13 @@
             "status": "verified"
           }
         ],
-        "detailNote": ""
+        "detailNote": "",
+        "sources": [
+          {
+            "label": "Application opening",
+            "url": "https://www.franklinjc.org/admissions/apply"
+          }
+        ]
       },
       "exam": {
         "summary": "Test-optional",
@@ -155,7 +177,7 @@
       "type": "Private",
       "gender": "Boys-only",
       "website": "https://spprep.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "For 2027–28: online application, entrance exam, transcript (grades 6–7 and first grade-8 marking period), teacher recommendation and essay.",
         "status": "verified",
@@ -196,15 +218,23 @@
         "detailNote": ""
       },
       "deadline": {
-        "text": "Dec 11, 2026 — Complete application + financial aid\nFor the January decision mailing.",
+        "text": "Sep 1, 2026 — Class of 2031 applications open\nDec 11, 2026 — Complete application + financial aid\nFor the January decision mailing.",
         "status": "verified",
         "url": "https://spprep.org/admissions/important-dates/",
         "dates": [
           "2026-12-11"
         ],
         "summary": "Dec 11, 2026",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
+          {
+            "date": "Sep 1, 2026",
+            "detail": "Class of 2031 applications open",
+            "id": "st-peters-applications-open",
+            "isoDate": "2026-09-01",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Dec 11, 2026",
             "detail": "Complete application + financial aid",
@@ -358,7 +388,7 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://hths.hcstonline.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Hudson County residency required for student and parent/guardian; grade 8 as of Sep 1, 2026. One HCST application; CTE major affects placement. Application, recommendation, counselor submission and portfolio are required.",
         "status": "verified",
@@ -391,21 +421,37 @@
         "detailNote": "Check the schedule for your chosen major."
       },
       "deadline": {
-        "text": "Nov 13, 2026 — 4 pm ET · Application\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
+        "text": "Oct 5, 2026 — 4 pm ET · HCST application opens\nNov 13, 2026 — 4 pm ET · Application\nNov 16, 2026 — Portfolio link emailed to the verified parent/guardian address\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
         "status": "verified",
         "url": "https://hcstonline.org/admissions/",
         "dates": [
           "2026-11-13"
         ],
         "summary": "Nov 13, 2026",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
+          {
+            "date": "Oct 5, 2026",
+            "detail": "4 pm ET · HCST application opens",
+            "id": "high-tech-applications-open",
+            "isoDate": "2026-10-05",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Nov 13, 2026",
             "detail": "4 pm ET · Application",
             "id": "high-tech-deadline-1",
             "isoDate": "2026-11-13",
             "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 16, 2026",
+            "detail": "Portfolio link emailed to the verified parent/guardian address",
+            "id": "high-tech-portfolio-link",
+            "isoDate": "2026-11-16",
+            "kind": "Documents / aid",
             "status": "verified"
           },
           {
@@ -475,7 +521,7 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://cphs.hcstonline.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Hudson County residency required for student and parent/guardian; grade 8 as of Sep 1, 2026. One HCST application; CTE major affects placement. Application, recommendation, counselor submission and portfolio are required.",
         "status": "verified",
@@ -516,21 +562,37 @@
         "detailNote": "Check the schedule for your chosen program."
       },
       "deadline": {
-        "text": "Nov 13, 2026 — 4 pm ET · Application\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
+        "text": "Oct 5, 2026 — 4 pm ET · HCST application opens\nNov 13, 2026 — 4 pm ET · Application\nNov 16, 2026 — Portfolio link emailed to the verified parent/guardian address\nNov 30, 2026 — Noon · Recommendation\nDec 23, 2026 — 3 pm · Counselor materials + portfolio",
         "status": "verified",
         "url": "https://hcstonline.org/admissions/",
         "dates": [
           "2026-11-13"
         ],
         "summary": "Nov 13, 2026",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
+          {
+            "date": "Oct 5, 2026",
+            "detail": "4 pm ET · HCST application opens",
+            "id": "county-prep-applications-open",
+            "isoDate": "2026-10-05",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Nov 13, 2026",
             "detail": "4 pm ET · Application",
             "id": "county-prep-deadline-1",
             "isoDate": "2026-11-13",
             "kind": "Application",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 16, 2026",
+            "detail": "Portfolio link emailed to the verified parent/guardian address",
+            "id": "county-prep-portfolio-link",
+            "isoDate": "2026-11-16",
+            "kind": "Documents / aid",
             "status": "verified"
           },
           {
@@ -909,41 +971,55 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.pingry.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Use the inquiry form to access the application portal. Grade 9 has Early Action and Regular Decision rounds; submit required test scores and supporting materials.",
         "status": "verified",
         "url": "https://www.pingry.org/apply/applicationprocess/upperschooladmissions"
       },
       "visits": {
-        "summary": "Sep 30 · 6:30–8:30",
-        "text": "Sep 30, 2026 — 6:30–8:30 pm · Upper School open house, Basking Ridge\nRegister ahead. More tours in the admissions calendar.",
-        "url": "https://www.pingry.org/apply/applicationprocess",
-        "status": "verified",
-        "checked": "2026-09-22",
+        "summary": "Sep 30 · year conflict",
+        "text": "Sep 30 · year unconfirmed — 6:30 pm · Upper School open house, Basking Ridge\nThe open-house page lists September 30, 2026 (already past at this review); the Upper School admissions page lists September 30, 2027. Confirm the year with admissions; no confirmed upcoming Upper School open house is inferred.",
+        "url": "https://www.pingry.org/apply/visit/open-houses",
+        "status": "tentative",
+        "checked": "2026-10-02",
         "items": [
           {
-            "date": "Sep 30, 2026",
-            "detail": "6:30–8:30 pm · Upper School open house, Basking Ridge",
+            "date": "Sep 30 · year unconfirmed",
+            "detail": "6:30 pm · Upper School open house, Basking Ridge",
             "id": "pingry-visits-1",
-            "isoDate": "2026-09-30",
+            "isoDate": null,
             "kind": "Visit",
-            "status": "verified"
+            "status": "tentative"
           }
         ],
-        "detailNote": "Register ahead. More tours in the admissions calendar."
+        "detailNote": "The open-house page lists September 30, 2026 (already past at this review); the Upper School admissions page lists September 30, 2027. Confirm the year with admissions; no confirmed upcoming Upper School open house is inferred.",
+        "sources": [
+          {
+            "label": "Conflicting Upper School page",
+            "url": "https://www.pingry.org/apply/applicationprocess/upperschooladmissions"
+          }
+        ]
       },
       "deadline": {
         "summary": "Nov 9 / Dec 14",
-        "text": "Nov 9, 2026 — Grade 9 Early Action application + aid\nDec 14, 2026 — Grade 9 Regular Decision application + aid",
+        "text": "July 2026 — Application opens · Exact day not published\nNov 9, 2026 — Grade 9 Early Action application + aid\nDec 14, 2026 — Grade 9 Regular Decision application + aid",
         "url": "https://www.pingry.org/apply/applicationprocess",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "dates": [
           "2026-11-09",
           "2026-12-14"
         ],
         "items": [
+          {
+            "date": "July 2026",
+            "detail": "Application opens · Exact day not published",
+            "id": "pingry-applications-open",
+            "isoDate": null,
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Nov 9, 2026",
             "detail": "Grade 9 Early Action application + aid",
@@ -965,16 +1041,33 @@
       },
       "exam": {
         "summary": "ISEE / SSAT",
-        "text": "ISEE / SSAT required. Take Sep–Dec 2026, in time for your application round.",
+        "text": "ISEE / SSAT required. Tests must be taken September–December 2026. Scores due Nov 9, 2026 for Grade 9 Early Action or Dec 14, 2026 for Regular Decision; choose a sitting in time for your round.",
         "url": "https://www.pingry.org/apply/applicationprocess/upperschooladmissions",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "examIds": [
           "isee",
           "ssat"
         ],
         "requirement": "Required: choose ISEE or SSAT",
-        "milestones": []
+        "milestones": [
+          {
+            "date": "Nov 9, 2026",
+            "detail": "Grade 9 Early Action: ISEE / SSAT scores due",
+            "id": "pingry-scores-early",
+            "isoDate": "2026-11-09",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 14, 2026",
+            "detail": "Regular Decision: ISEE / SSAT scores due",
+            "id": "pingry-scores-regular",
+            "isoDate": "2026-12-14",
+            "kind": "Scores / testing due",
+            "status": "verified"
+          }
+        ]
       },
       "tuition": {
         "text": "$54,800 · 2025–26\nOlder published rate; not a 2027–28 quote. Mandatory lunch and other fees are extra.",
@@ -1251,7 +1344,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.horacemann.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Ravenna application; student/parent interview, student essays and activity summary, teacher recommendations, grades, parent statement and testing.",
         "status": "verified",
@@ -1292,7 +1385,7 @@
         "detailNote": "Choose one information session; register in Ravenna."
       },
       "deadline": {
-        "text": "Oct 15, 2026 — Apply + schedule to guarantee an interview\nNov 15, 2026 — Financial aid\nNov 18, 2026 — Application\nJan 8, 2027 — Complete file, including scores",
+        "text": "Aug 5, 2026 — 2027–28 applications available in Ravenna\nOct 15, 2026 — Apply + schedule to guarantee an interview; upload report cards from the prior two years\nNov 15, 2026 — Financial aid\nNov 18, 2026 — Application\nJan 8, 2027 — Complete file, including scores",
         "status": "verified",
         "url": "https://www.horacemann.org/admissions/applying-to-grades-6-11",
         "dates": [
@@ -1300,11 +1393,19 @@
           "2026-11-18"
         ],
         "summary": "Oct 15 / Nov 18",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
           {
+            "date": "Aug 5, 2026",
+            "detail": "2027–28 applications available in Ravenna",
+            "id": "horace-mann-applications-open",
+            "isoDate": "2026-08-05",
+            "kind": "Applications open",
+            "status": "verified"
+          },
+          {
             "date": "Oct 15, 2026",
-            "detail": "Apply + schedule to guarantee an interview",
+            "detail": "Apply + schedule to guarantee an interview; upload report cards from the prior two years",
             "id": "horace-mann-deadline-1",
             "isoDate": "2026-10-15",
             "kind": "Application",
@@ -1395,7 +1496,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.trinityschoolnyc.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Grade 9 application, campus visit with conversation/group activity/writing assessment, school records, recommendations, essays and ISEE or SSAT.",
         "status": "verified",
@@ -1429,14 +1530,22 @@
       },
       "deadline": {
         "summary": "Nov 15, 2026",
-        "text": "Nov 15, 2026 — Grade 9 application + campus-visit scheduling\nJan 8, 2027 — Supporting documents + financial aid",
+        "text": "Sep 8, 2026 — Online applications open\nNov 15, 2026 — Grade 9 application + campus-visit scheduling\nJan 8, 2027 — Supporting documents + financial aid",
         "url": "https://www.trinityschoolnyc.org/admissions/admissions-5-12",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "dates": [
           "2026-11-15"
         ],
         "items": [
+          {
+            "date": "Sep 8, 2026",
+            "detail": "Online applications open",
+            "id": "trinity-applications-open",
+            "isoDate": "2026-09-08",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Nov 15, 2026",
             "detail": "Grade 9 application + campus-visit scheduling",
@@ -1515,7 +1624,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.thehudsonschool.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Apply through Ravenna. Choose Early Notification or Standard Notification and complete the student visit/interview and supplemental materials.",
         "status": "verified",
@@ -1557,15 +1666,23 @@
       },
       "deadline": {
         "summary": "Dec 1 / Jan 15",
-        "text": "Dec 1, 2026 — Early Notification application + aid\nDec 15, 2026 — Early Notification supplements\nJan 15, 2027 — Standard application + aid, grades 9–12\nJan 29, 2027 — Standard supplements",
+        "text": "Sep 1, 2026 — Early Notification application portal opens\nDec 1, 2026 — Early Notification application + aid\nDec 15, 2026 — Early Notification supplements\nJan 15, 2027 — Standard application + aid, grades 9–12\nJan 29, 2027 — Standard supplements",
         "url": "https://www.thehudsonschool.org/admission/admissions-process/",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "dates": [
           "2026-12-01",
           "2027-01-15"
         ],
         "items": [
+          {
+            "date": "Sep 1, 2026",
+            "detail": "Early Notification application portal opens",
+            "id": "hudson-school-applications-open",
+            "isoDate": "2026-09-01",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Dec 1, 2026",
             "detail": "Early Notification application + aid",
@@ -1650,7 +1767,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.newarka.edu/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "For 2027–28: application, candidate/parent conversation, recommendations, grade reports and required ISEE or SSAT.",
         "status": "verified",
@@ -1684,14 +1801,22 @@
       },
       "deadline": {
         "summary": "Dec 1, 2026",
-        "text": "Dec 1, 2026 — Application\nDec 15, 2026 — Prior transcript\nJan 11, 2027 — Supplemental materials",
+        "text": "Sep 1, 2026 — Online admission form opens\nDec 1, 2026 — Application\nDec 15, 2026 — Prior transcript\nJan 11, 2027 — Supplemental materials",
         "url": "https://www.newarka.edu/admission/apply",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "dates": [
           "2026-12-01"
         ],
         "items": [
+          {
+            "date": "Sep 1, 2026",
+            "detail": "Online admission form opens",
+            "id": "newark-academy-applications-open",
+            "isoDate": "2026-09-01",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Dec 1, 2026",
             "detail": "Application",
@@ -1768,7 +1893,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://highschool.faacademy.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Apply online, then complete a family interview and MAP testing. Grades 9–11 accept students without prior French for 2027–28.",
         "status": "verified",
@@ -1802,14 +1927,22 @@
       },
       "deadline": {
         "summary": "Jan 22, 2027",
-        "text": "Jan 22, 2027 — Complete standard application, grades 9–11\nAfter Jan 22, 2027 — Rolling review, subject to places",
+        "text": "Jul 15, 2026 — Standard applications open\nJan 22, 2027 — Complete standard application, grades 9–11\nAfter Jan 22, 2027 — Rolling review, subject to places",
         "url": "https://faacademy.org/apply-now/",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "dates": [
           "2027-01-22"
         ],
         "items": [
+          {
+            "date": "Jul 15, 2026",
+            "detail": "Standard applications open",
+            "id": "french-american-applications-open",
+            "isoDate": "2026-07-15",
+            "kind": "Applications open",
+            "status": "verified"
+          },
           {
             "date": "Jan 22, 2027",
             "detail": "Complete standard application, grades 9–11",
@@ -1877,24 +2010,32 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.avenues.org/new-york/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Preliminary application, parent conversation and student interview, statements, school documents and ISEE or SSAT. First Choice is binding.",
         "status": "verified",
         "url": "https://www.avenues.org/new-york/admissions"
       },
       "visits": {
-        "summary": "Oct 14 · virtual",
-        "text": "Oct 14, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nNov 10, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nDec 16, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nRequest an Upper Division campus visit through admissions.",
+        "summary": "Oct 14 / Oct 17",
+        "text": "Oct 14, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nOct 17, 2026 — 9 am–1 pm · In-person Upper Division open house\nNov 10, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nDec 16, 2026 — 5:30–6:30 pm · Virtual introduction + roundtable\nRequest an Upper Division campus visit through admissions.",
         "url": "https://www.avenues.org/new-york/admissions",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
           {
             "date": "Oct 14, 2026",
             "detail": "5:30–6:30 pm · Virtual introduction + roundtable",
             "id": "avenues-visits-1",
             "isoDate": "2026-10-14",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 17, 2026",
+            "detail": "9 am–1 pm · In-person Upper Division open house",
+            "id": "avenues-open-house-oct",
+            "isoDate": "2026-10-17",
             "kind": "Visit",
             "status": "verified"
           },
@@ -2149,11 +2290,12 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://www.hoboken.k12.nj.us/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
-        "text": "Resident enrollment and nonresident School Choice follow different processes. The published Choice pathway information is for 2026–27; confirm 2027–28 eligibility and spaces with the district enrollment office.",
-        "status": "unknown",
-        "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice"
+        "text": "Resident enrollment and nonresident School Choice follow different processes. The district publishes grade 9 School Choice availability for 2027–28. Submit the Choice application and a Notice of Intent to Participate stamped by the resident district; confirm pathway eligibility with the enrollment office.",
+        "status": "verified",
+        "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice",
+        "checked": "2026-10-02"
       },
       "visits": {
         "summary": "Request a shadow day",
@@ -2182,23 +2324,40 @@
         "detailNote": "Submit a visit request through the school."
       },
       "deadline": {
-        "summary": "Confirm with district",
-        "text": "Date not confirmed — 2027–28 School Choice application cutoff\nThe page still lists Nov 24, 2025 for the old cycle. Nonresident applicants: 201-356-3619. Resident enrollment is separate.",
+        "summary": "Nov 24, 2026",
+        "text": "Nov 24, 2026 — School Choice application + Notice of Intent to Participate\nJan 8, 2027 — If conditionally accepted: submit Notice of Intent to Enroll to one choice district\nNonresident School Choice only; resident enrollment is separate. The January response applies only after conditional acceptance.",
         "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice",
-        "status": "unknown",
-        "checked": "2026-09-22",
-        "dates": [],
+        "status": "verified",
+        "checked": "2026-10-02",
+        "dates": [
+          "2026-11-24"
+        ],
         "items": [
           {
-            "date": "Date not confirmed",
-            "detail": "2027–28 School Choice application cutoff",
+            "date": "Nov 24, 2026",
+            "detail": "School Choice application + Notice of Intent to Participate",
             "id": "hoboken-high-deadline-1",
-            "isoDate": null,
+            "isoDate": "2026-11-24",
             "kind": "Application",
-            "status": "unknown"
+            "status": "verified"
+          },
+          {
+            "date": "Jan 8, 2027",
+            "detail": "If conditionally accepted: submit Notice of Intent to Enroll to one choice district",
+            "id": "hoboken-high-enrollment-response",
+            "isoDate": "2027-01-08",
+            "kind": "Enrollment response",
+            "status": "verified",
+            "url": "https://www.nj.gov/education/choice/parents/timeline/"
           }
         ],
-        "detailNote": "The page still lists Nov 24, 2025 for the old cycle. Nonresident applicants: 201-356-3619. Resident enrollment is separate."
+        "detailNote": "Nonresident School Choice only; resident enrollment is separate. The January response applies only after conditional acceptance.",
+        "sources": [
+          {
+            "label": "NJ Choice timeline",
+            "url": "https://www.nj.gov/education/choice/parents/timeline/"
+          }
+        ]
       },
       "exam": {
         "summary": "Confirm with district",
@@ -2246,7 +2405,7 @@
       "type": "Private",
       "gender": "Boys-only",
       "website": "https://www.delbarton.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Online application, school records and recommendations, on-campus family interview and the Delbarton entrance exam.",
         "status": "verified",
@@ -2271,25 +2430,38 @@
         "detailNote": "Register through the school’s inquiry form."
       },
       "deadline": {
-        "summary": "Nov 30, 2026",
-        "text": "Nov 30, 2026 — Application, paperwork + financial assistance\nSelect your exam date when applying. The December exam follows this paperwork deadline.",
+        "summary": "Nov 30 / Dec 1 conflict",
+        "text": "Aug 17, 2026 — 2027–28 applications open\nNov 30 / Dec 1, 2026 · unconfirmed — Conflicting application + financial-assistance cutoffs; plan for Nov 30\nThe procedure page says November 30, 2026 for application, paperwork and financial assistance; the inquiry timeline says December 1, 2026 for application and Clarity aid. Plan conservatively for November 30 and confirm with admissions. Select your exam date when applying.",
         "url": "https://www.delbarton.org/admissions/application-procedure",
-        "status": "verified",
-        "checked": "2026-09-22",
-        "dates": [
-          "2026-11-30"
-        ],
+        "status": "tentative",
+        "checked": "2026-10-02",
+        "dates": [],
         "items": [
           {
-            "date": "Nov 30, 2026",
-            "detail": "Application, paperwork + financial assistance",
+            "date": "Aug 17, 2026",
+            "detail": "2027–28 applications open",
+            "id": "delbarton-applications-open",
+            "isoDate": "2026-08-17",
+            "kind": "Applications open",
+            "status": "verified",
+            "url": "https://www.delbarton.org/admissions/inquire"
+          },
+          {
+            "date": "Nov 30 / Dec 1, 2026 · unconfirmed",
+            "detail": "Conflicting application + financial-assistance cutoffs; plan for Nov 30",
             "id": "delbarton-deadline-1",
-            "isoDate": "2026-11-30",
+            "isoDate": null,
             "kind": "Application",
-            "status": "verified"
+            "status": "tentative"
           }
         ],
-        "detailNote": "Select your exam date when applying. The December exam follows this paperwork deadline."
+        "detailNote": "The procedure page says November 30, 2026 for application, paperwork and financial assistance; the inquiry timeline says December 1, 2026 for application and Clarity aid. Plan conservatively for November 30 and confirm with admissions. Select your exam date when applying.",
+        "sources": [
+          {
+            "label": "Inquiry timeline: opening and conflicting cutoff",
+            "url": "https://www.delbarton.org/admissions/inquire"
+          }
+        ]
       },
       "exam": {
         "summary": "Oct 24 / Dec 5",
@@ -2339,11 +2511,12 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://www.kindleeducation.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
-        "text": "Open enrollment; lottery if oversubscribed. Applications for 2027–28 open Oct 1. Confirm residence priority and required enrollment documents.",
+        "text": "Applications for 2027–28 are open. Apply by February 15, 2027 for the enrollment lottery. Confirm residence priority and required enrollment documents.",
         "status": "verified",
-        "url": "https://www.kindleeducation.org/enroll"
+        "url": "https://www.kindleeducation.org/enroll",
+        "checked": "2026-10-02"
       },
       "visits": {
         "summary": "Open-house signup",
@@ -2364,31 +2537,33 @@
         "detailNote": "Dates could not be retrieved; check the form or contact the school."
       },
       "deadline": {
-        "summary": "Opens Oct 1",
-        "text": "Oct 1, 2026 — 2027–28 applications open\nDate not posted — Lottery-entry cutoff\nThe completed-lottery notice refers to the previous cycle.",
+        "summary": "Feb 15, 2027",
+        "text": "Applications open — 2027–28 application available now\nFeb 15, 2027 — Lottery-entry application cutoff\nApply by February 15 to enter the 2027–28 enrollment lottery.",
         "url": "https://www.kindleeducation.org/enroll",
-        "status": "unknown",
-        "checked": "2026-09-22",
-        "dates": [],
+        "status": "verified",
+        "checked": "2026-10-02",
+        "dates": [
+          "2027-02-15"
+        ],
         "items": [
           {
-            "date": "Oct 1, 2026",
-            "detail": "2027–28 applications open",
+            "date": "Applications open",
+            "detail": "2027–28 application available now",
             "id": "kindle-deadline-1",
-            "isoDate": "2026-10-01",
+            "isoDate": null,
             "kind": "Applications open",
             "status": "verified"
           },
           {
-            "date": "Date not posted",
-            "detail": "Lottery-entry cutoff",
+            "date": "Feb 15, 2027",
+            "detail": "Lottery-entry application cutoff",
             "id": "kindle-deadline-2",
-            "isoDate": null,
-            "kind": "Documents / aid",
-            "status": "unknown"
+            "isoDate": "2027-02-15",
+            "kind": "Application",
+            "status": "verified"
           }
         ],
-        "detailNote": "The completed-lottery notice refers to the previous cycle."
+        "detailNote": "Apply by February 15 to enter the 2027–28 enrollment lottery."
       },
       "exam": {
         "text": "No exam. Lottery if oversubscribed.",
@@ -2436,18 +2611,18 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://peddie.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Submit SAO or Gateway application, required interview, school transcripts, recommendations, student essays, school supplement and required test scores.",
         "status": "verified",
         "url": "https://peddie.org/admission/how-to-apply/"
       },
       "visits": {
-        "summary": "Arrange a visit",
-        "text": "By appointment — Tour + required interview\nBook: admission@peddie.org / 609-944-7501. Public tour text has an old cycle label; confirm availability.",
-        "url": "https://peddie.org/admission/admission-events/",
+        "summary": "Oct 17 / Nov 14",
+        "text": "By appointment — Tour + required interview\nOct 17, 2026 — 8:30 am–2 pm · Admission Fall Preview\nNov 14, 2026 — 8:30 am–2 pm · Admission Fall Preview\nRegister for previews through the official event calendar. Book a tour/interview: admission@peddie.org / 609-944-7501. The tour page retains an old cycle label; confirm appointment availability.",
+        "url": "https://peddie.org/events/category/admissions/list/",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "items": [
           {
             "date": "By appointment",
@@ -2455,10 +2630,33 @@
             "id": "peddie-visits-1",
             "isoDate": null,
             "kind": "Visit",
+            "status": "verified",
+            "url": "https://peddie.org/admission/admission-events/"
+          },
+          {
+            "date": "Oct 17, 2026",
+            "detail": "8:30 am–2 pm · Admission Fall Preview",
+            "id": "peddie-preview-oct",
+            "isoDate": "2026-10-17",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 14, 2026",
+            "detail": "8:30 am–2 pm · Admission Fall Preview",
+            "id": "peddie-preview-nov",
+            "isoDate": "2026-11-14",
+            "kind": "Visit",
             "status": "verified"
           }
         ],
-        "detailNote": "Book: admission@peddie.org / 609-944-7501. Public tour text has an old cycle label; confirm availability."
+        "detailNote": "Register for previews through the official event calendar. Book a tour/interview: admission@peddie.org / 609-944-7501. The tour page retains an old cycle label; confirm appointment availability.",
+        "sources": [
+          {
+            "label": "Tour and interview information",
+            "url": "https://peddie.org/admission/admission-events/"
+          }
+        ]
       },
       "deadline": {
         "summary": "Jan 15, 2027",
@@ -2530,7 +2728,7 @@
       "type": "Private",
       "gender": "Boys-only",
       "website": "https://www.shp.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-02",
       "admissions": {
         "text": "Complete online application and school entrance exam; admission considers the exam and grades 6–8 records. Class of 2031 decisions mailed Jan 14, 2027.",
         "status": "verified",
@@ -2590,16 +2788,22 @@
         "detailNote": "Confirm the deadline with admissions: 973-325-6640."
       },
       "exam": {
-        "text": "School exam: Nov 7, 21 or Dec 5, 12, 2026 · 2 hours. Book through application. No substitute tests.",
+        "text": "School exam: Nov 7, 21 or Dec 5, 12, 2026 · 9 am · 2 hours. Choose one sitting and book through the application. No substitute tests.",
         "status": "verified",
         "url": "https://www.shp.org/admissions/ninth-grade-admission-process",
         "summary": "School exam · Nov–Dec",
-        "checked": "2026-09-22",
+        "checked": "2026-10-02",
         "examIds": [
           "seton-exam"
         ],
         "requirement": "Required",
-        "milestones": []
+        "milestones": [],
+        "sources": [
+          {
+            "label": "Exam dates and times",
+            "url": "https://www.shp.org/admissions/admission-events/admissions-exams"
+          }
+        ]
       },
       "tuition": {
         "text": "$26,800 · 2026–27\nComprehensive tuition; $100 one-time registration and a final-year graduation fee are extra.",
@@ -2845,21 +3049,45 @@
     {
       "id": "tachs",
       "name": "TACHS",
-      "registration": "Check the organizer’s registration instructions",
+      "registration": "Register by October 28, 2026 at 11 pm ET",
       "registrationUrl": "https://tachsinfo.com/",
-      "notes": "Accepted as an alternative by Saint Peter’s Prep. Current test and registration dates were not confirmed.",
+      "notes": "Saint Peter’s Prep accepts TACHS as an alternative. Test day depends on the aligned diocese; these are alternatives, not multiple required sittings. Submit extended-time accommodation requests to the aligned diocese by October 2.",
       "events": [
         {
+          "date": "Oct 28, 2026",
+          "detail": "11 pm ET · TACHS registration closes",
           "id": "tachs-check",
-          "isoDate": null,
-          "date": "Dates unconfirmed",
-          "detail": "Confirm TACHS registration and test date",
+          "isoDate": "2026-10-28",
           "kind": "Exam registration",
-          "status": "unknown"
+          "status": "verified"
+        },
+        {
+          "date": "Oct 2, 2026",
+          "detail": "Extended-time accommodation request + supporting documents due to aligned diocese",
+          "id": "tachs-accommodations",
+          "isoDate": "2026-10-02",
+          "kind": "Documents / aid",
+          "status": "verified"
+        },
+        {
+          "date": "Nov 6, 2026",
+          "detail": "TACHS · Archdiocese of New York",
+          "id": "tachs-test-ny",
+          "isoDate": "2026-11-06",
+          "kind": "Exam",
+          "status": "verified"
+        },
+        {
+          "date": "Nov 7, 2026",
+          "detail": "TACHS · Brooklyn/Queens or Rockville Centre",
+          "id": "tachs-test-bq-rvc",
+          "isoDate": "2026-11-07",
+          "kind": "Exam",
+          "status": "verified"
         }
       ],
-      "sourceUrl": "https://tachsinfo.com/",
-      "checked": "2026-09-22"
+      "sourceUrl": "https://www.tachsinfo.com/PDF/ParentsCalendar.pdf",
+      "checked": "2026-10-02"
     },
     {
       "id": "delbarton-exam",
@@ -2899,7 +3127,7 @@
           "id": "seton-test-2026-11-07",
           "isoDate": "2026-11-07",
           "date": "Nov 7, 2026",
-          "detail": "Seton Hall Prep exam · choose one sitting",
+          "detail": "9 am · Seton Hall Prep exam · choose one sitting",
           "kind": "Exam",
           "status": "verified"
         },
@@ -2907,7 +3135,7 @@
           "id": "seton-test-2026-11-21",
           "isoDate": "2026-11-21",
           "date": "Nov 21, 2026",
-          "detail": "Seton Hall Prep exam · choose one sitting",
+          "detail": "9 am · Seton Hall Prep exam · choose one sitting",
           "kind": "Exam",
           "status": "verified"
         },
@@ -2915,7 +3143,7 @@
           "id": "seton-test-2026-12-05",
           "isoDate": "2026-12-05",
           "date": "Dec 5, 2026",
-          "detail": "Seton Hall Prep exam · choose one sitting",
+          "detail": "9 am · Seton Hall Prep exam · choose one sitting",
           "kind": "Exam",
           "status": "verified"
         },
@@ -2923,13 +3151,13 @@
           "id": "seton-test-2026-12-12",
           "isoDate": "2026-12-12",
           "date": "Dec 12, 2026",
-          "detail": "Seton Hall Prep exam · choose one sitting",
+          "detail": "9 am · Seton Hall Prep exam · choose one sitting",
           "kind": "Exam",
           "status": "verified"
         }
       ],
-      "sourceUrl": "https://www.shp.org/admissions/ninth-grade-admission-process",
-      "checked": "2026-09-22"
+      "sourceUrl": "https://www.shp.org/admissions/admission-events/admissions-exams",
+      "checked": "2026-10-02"
     },
     {
       "id": "map",
