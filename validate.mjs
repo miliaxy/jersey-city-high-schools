@@ -54,7 +54,7 @@ assert(vm.runInContext("field('Niche rating',schools[0].niche)",ctx).includes('N
 assert(vm.runInContext("field('Niche rating',schools[0].niche)",ctx).includes('Checked 2026-09-22'));
 console.log('Passed: Niche source coverage, external labels, checked dates and grade sorting with missing grades last.');
 
-for(const school of data.schools)for(const key of ['visits','deadline','exam'])assert(['2026-09-22','2026-10-02'].includes(school[key].checked));
+for(const school of data.schools)for(const key of ['visits','deadline','exam'])assert(['2026-09-22','2026-10-02','2026-10-06'].includes(school[key].checked));
 assert(!vm.runInContext("field('Entrance exam',schools.find(s=>s.id==='franklin').exam)",ctx).includes('Niche grade'));
 assert(vm.runInContext("compact(schools.find(s=>s.id==='mcnair'),'exam')",ctx).includes('Register by Oct 2'));
 for(const id of ['mcnair','infinity']){const s=data.schools.find(s=>s.id===id);assert.equal(s.deadline.dates.length,0);assert(s.exam.text.includes('Oct 24, 2026'));}

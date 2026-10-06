@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-06",
   "entryYear": "2027–28",
   "provenance": "Initial school list and tentative dates transcribed from a parent-supplied high school application guide. Guide dates do not explicitly state a year. No personal records or private guide URL included.",
   "schools": [
@@ -12,12 +12,12 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.franklinjc.org/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
-        "text": "Apply through the school’s admissions process and complete materials and interview. Early Decision is binding after accepting the offer. The process page and FAQ agree: November 13, 2026 Early Decision and January 15, 2027 Regular Decision.",
+        "text": "Submit the application form, then book the required Family Chat and Student Interview in Ravenna. Submit a current-school-year graded writing sample with teacher grading and/or comments, along with the required materials. ISEE / SSAT testing is optional for 2027–28. Early Decision is binding after accepting the offer. The process page and FAQ agree: November 13, 2026 Early Decision and January 15, 2027 Regular Decision.",
         "status": "verified",
         "url": "https://www.franklinjc.org/admissions/admission-process",
-        "checked": "2026-10-02",
+        "checked": "2026-10-06",
         "sources": [
           {
             "label": "Admissions FAQ",
@@ -26,17 +26,25 @@
         ]
       },
       "visits": {
-        "summary": "Oct 7 + 3 dates",
-        "text": "Oct 7, 2026 — 5:30–6:30 pm · Open house\nOct 24, 2026 — 10–11 am · Open house\nNov 4, 2026 — 5:30–6:30 pm · Open house\nNov 14, 2026 — 10–11 am · Open house\nRegister in advance.",
+        "summary": "Oct 7 + 6 dates",
+        "text": "Oct 7, 2026 — 5:30–6:30 pm · Open house\nOct 13, 2026 — 8–9 am · Virtual chat with Head of School and Admissions Director\nOct 24, 2026 — 10–11 am · Open house\nNov 4, 2026 — 5:30–6:30 pm · Open house\nNov 14, 2026 — 10–11 am · Open house\nNov 19, 2026 — 8–9 am · Virtual chat with Head of School and Admissions Director\nDec 9, 2026 — 8–9 am · Virtual chat with Head of School and Admissions Director\nRegister in advance.",
         "url": "https://www.franklinjc.org/admissions/visit-us",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Oct 7, 2026",
             "detail": "5:30–6:30 pm · Open house",
             "id": "franklin-visits-1",
             "isoDate": "2026-10-07",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 13, 2026",
+            "detail": "8–9 am · Virtual chat with Head of School and Admissions Director",
+            "id": "franklin-virtual-2026-10-13",
+            "isoDate": "2026-10-13",
             "kind": "Visit",
             "status": "verified"
           },
@@ -61,6 +69,22 @@
             "detail": "10–11 am · Open house",
             "id": "franklin-visits-4",
             "isoDate": "2026-11-14",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 19, 2026",
+            "detail": "8–9 am · Virtual chat with Head of School and Admissions Director",
+            "id": "franklin-virtual-2026-11-19",
+            "isoDate": "2026-11-19",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Dec 9, 2026",
+            "detail": "8–9 am · Virtual chat with Head of School and Admissions Director",
+            "id": "franklin-virtual-2026-12-09",
+            "isoDate": "2026-12-09",
             "kind": "Visit",
             "status": "verified"
           }
@@ -880,22 +904,22 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://hudsoncatholic.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Not yet verified for fall 2027 entry.",
         "status": "unknown",
         "url": "https://hudsoncatholic.org/visit"
       },
       "visits": {
-        "summary": "Oct 18, 2026",
-        "text": "Oct 18, 2026 — Open house · Time in registration details\nRegister through the school’s linked form.",
+        "summary": "Oct 18 · 10–1",
+        "text": "Oct 18, 2026 — 10 am–1 pm · Open house\nRegister through the school’s linked form.",
         "url": "https://hudsoncatholic.org/open-house",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Oct 18, 2026",
-            "detail": "Open house · Time in registration details",
+            "detail": "10 am–1 pm · Open house",
             "id": "hudson-catholic-visits-1",
             "isoDate": "2026-10-18",
             "kind": "Visit",
@@ -925,15 +949,21 @@
       },
       "exam": {
         "summary": "HSPT · Nov 6",
-        "text": "HSPT: Nov 6, 2026. Register at njcoopexam.org. School page has a conflicting entry-year label; confirm cycle and signup cutoff.",
-        "url": "https://hudsoncatholic.org/apply",
+        "text": "HSPT required: Nov 6, 2026. Both the HSPT and application pages agree on this test date. Register at njcoopexam.org. The application page still labels the incoming class 2026–2027; confirm that entry-year label with admissions.",
+        "url": "https://hudsoncatholic.org/hspt",
         "status": "tentative",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "examIds": [
           "hspt"
         ],
-        "requirement": "HSPT listed; confirm entry cycle",
-        "milestones": []
+        "requirement": "HSPT required; application page entry-year label needs confirmation",
+        "milestones": [],
+        "sources": [
+          {
+            "label": "Application page (entry-year caveat)",
+            "url": "https://hudsoncatholic.org/apply"
+          }
+        ]
       },
       "tuition": {
         "text": "$13,000 · 2026–27\nPlus $750 general fee, $400 new-student registration, $50 FACTS fee and $280 family fundraising. Other categories differ.",
@@ -1105,7 +1135,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.lemanmanhattan.org/",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Apply through Ravenna; schedule student and parent interviews and submit required school records and test scores.",
         "status": "verified",
@@ -1131,10 +1161,10 @@
       },
       "deadline": {
         "summary": "Dec 1, 2026",
-        "text": "Dec 1, 2026 — Preliminary application + financial aid\nJan 8, 2027 — Supplemental materials\nUses the grades 9–12 table; the page’s introductory sentence has an outdated year.",
+        "text": "Dec 1, 2026 — Preliminary application + financial aid\nJan 8, 2027 — Supplemental materials\nThe published timeline explicitly covers 2027–28; these dates are from the grades 9–12 table.",
         "url": "https://www.lemanmanhattan.org/timelines.html",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "dates": [
           "2026-12-01"
         ],
@@ -1156,7 +1186,7 @@
             "status": "verified"
           }
         ],
-        "detailNote": "Uses the grades 9–12 table; the page’s introductory sentence has an outdated year."
+        "detailNote": "The published timeline explicitly covers 2027–28; these dates are from the grades 9–12 table."
       },
       "exam": {
         "summary": "ISEE / SSAT",
@@ -1344,22 +1374,22 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.horacemann.org/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Ravenna application; student/parent interview, student essays and activity summary, teacher recommendations, grades, parent statement and testing.",
         "status": "verified",
         "url": "https://www.horacemann.org/admissions/applying-to-grades-6-11"
       },
       "visits": {
-        "summary": "Sep 27 / Oct 18",
-        "text": "Sep 27, 2026 — 2 pm · Upper Division information session\nOct 18, 2026 — 10 am · Upper Division information session\nOct 24, 2026 — Noon–2 pm · Athletics open house\nChoose one information session; register in Ravenna.",
+        "summary": "Oct 18 / Oct 24",
+        "text": "Sep 27, 2026 — CANCELED · 2 pm Upper Division information session; replacement date/time pending\nOct 18, 2026 — 10 am · Upper Division information session\nOct 24, 2026 — Noon–2 pm · Athletics open house · Separate athletics registration required\nThe September 27 session was canceled because of extreme-weather forecasts; no replacement has been announced. Register in Ravenna for an information session. Athletics uses the separate registration link on the admissions-events page.",
         "url": "https://www.horacemann.org/admissions/admissions-events",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Sep 27, 2026",
-            "detail": "2 pm · Upper Division information session",
+            "detail": "CANCELED · 2 pm Upper Division information session; replacement date/time pending",
             "id": "horace-mann-visits-1",
             "isoDate": "2026-09-27",
             "kind": "Visit",
@@ -1375,14 +1405,14 @@
           },
           {
             "date": "Oct 24, 2026",
-            "detail": "Noon–2 pm · Athletics open house",
+            "detail": "Noon–2 pm · Athletics open house · Separate athletics registration required",
             "id": "horace-mann-visits-3",
             "isoDate": "2026-10-24",
             "kind": "Visit",
             "status": "verified"
           }
         ],
-        "detailNote": "Choose one information session; register in Ravenna."
+        "detailNote": "The September 27 session was canceled because of extreme-weather forecasts; no replacement has been announced. Register in Ravenna for an information session. Athletics uses the separate registration link on the admissions-events page."
       },
       "deadline": {
         "text": "Aug 5, 2026 — 2027–28 applications available in Ravenna\nOct 15, 2026 — Apply + schedule to guarantee an interview; upload report cards from the prior two years\nNov 15, 2026 — Financial aid\nNov 18, 2026 — Application\nJan 8, 2027 — Complete file, including scores",
@@ -1767,24 +1797,56 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.newarka.edu/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "For 2027–28: application, candidate/parent conversation, recommendations, grade reports and required ISEE or SSAT.",
         "status": "verified",
         "url": "https://www.newarka.edu/admission/apply"
       },
       "visits": {
-        "summary": "Oct 17 / Nov 15",
-        "text": "Oct 17, 2026 — 10 am–1 pm · All-school open house\nNov 15, 2026 — 1–4 pm · Upper School open house\nRegister ahead; additional Upper School tours available.",
+        "summary": "Oct 6 + 6 dates",
+        "text": "Oct 6, 2026 — 7–8 pm · Admissions and Financial Aid virtual session\nOct 9, 2026 — 12:10 pm · Upper School campus tour\nOct 15, 2026 — 9:30 am · Upper School campus tour\nOct 17, 2026 — 10 am–1 pm · All-school open house\nNov 2, 2026 — 7–8 pm · Admissions and the Arts virtual session\nNov 15, 2026 — 1–4 pm · Upper School open house\nDec 8, 2026 — 6:15–7:15 pm · Creating Community event\nRegister ahead; additional Upper School tours available.",
         "url": "https://www.newarka.edu/admission/visit",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
+          {
+            "date": "Oct 6, 2026",
+            "detail": "7–8 pm · Admissions and Financial Aid virtual session",
+            "id": "newark-academy-aid-webinar",
+            "isoDate": "2026-10-06",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 9, 2026",
+            "detail": "12:10 pm · Upper School campus tour",
+            "id": "newark-academy-tour-oct9",
+            "isoDate": "2026-10-09",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 15, 2026",
+            "detail": "9:30 am · Upper School campus tour",
+            "id": "newark-academy-tour-oct15",
+            "isoDate": "2026-10-15",
+            "kind": "Visit",
+            "status": "verified"
+          },
           {
             "date": "Oct 17, 2026",
             "detail": "10 am–1 pm · All-school open house",
             "id": "newark-academy-visits-1",
             "isoDate": "2026-10-17",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 2, 2026",
+            "detail": "7–8 pm · Admissions and the Arts virtual session",
+            "id": "newark-academy-arts-session",
+            "isoDate": "2026-11-02",
             "kind": "Visit",
             "status": "verified"
           },
@@ -1795,16 +1857,24 @@
             "isoDate": "2026-11-15",
             "kind": "Visit",
             "status": "verified"
+          },
+          {
+            "date": "Dec 8, 2026",
+            "detail": "6:15–7:15 pm · Creating Community event",
+            "id": "newark-academy-community-session",
+            "isoDate": "2026-12-08",
+            "kind": "Visit",
+            "status": "verified"
           }
         ],
         "detailNote": "Register ahead; additional Upper School tours available."
       },
       "deadline": {
         "summary": "Dec 1, 2026",
-        "text": "Sep 1, 2026 — Online admission form opens\nDec 1, 2026 — Application\nDec 15, 2026 — Prior transcript\nJan 11, 2027 — Supplemental materials",
+        "text": "Sep 1, 2026 — Online admission form opens\nDec 1, 2026 — Application\nDec 15, 2026 — Prior transcript\nJan 11, 2027 — Supplemental materials + completed financial-aid application (if applying for aid)",
         "url": "https://www.newarka.edu/admission/apply",
         "status": "verified",
-        "checked": "2026-10-02",
+        "checked": "2026-10-06",
         "dates": [
           "2026-12-01"
         ],
@@ -1835,7 +1905,7 @@
           },
           {
             "date": "Jan 11, 2027",
-            "detail": "Supplemental materials",
+            "detail": "Supplemental materials + completed financial-aid application (if applying for aid)",
             "id": "newark-academy-deadline-3",
             "isoDate": "2027-01-11",
             "kind": "Documents / aid",
@@ -1893,7 +1963,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://highschool.faacademy.org/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Apply online, then complete a family interview and MAP testing. Grades 9–11 accept students without prior French for 2027–28.",
         "status": "verified",
@@ -1901,14 +1971,14 @@
       },
       "visits": {
         "summary": "Oct 10 / Nov 7",
-        "text": "Oct 10, 2026 — 2 pm · Middle & High School open house\nNov 7, 2026 — 2 pm · Middle & High School open house\nRegister for the Jersey City Heights campus.",
-        "url": "https://faacademy.org/fr/",
+        "text": "Oct 10, 2026 — 2–4 pm · Middle & High School open house · 118 Ferry Street\nNov 7, 2026 — 2 pm · Middle & High School open house · Registration availability uncertain\nThe main school open-house page announces both October 10 and November 7, 2026 at 2 pm. Public registration confirms October 10, 2–4 pm at 118 Ferry Street. November 7 booking availability is uncorroborated, while the high-school event page says no events are scheduled. Confirm November 7 registration with admissions; the announced event is not marked canceled.",
+        "url": "https://faacademy.org/school-open-house/",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Oct 10, 2026",
-            "detail": "2 pm · Middle & High School open house",
+            "detail": "2–4 pm · Middle & High School open house · 118 Ferry Street",
             "id": "french-american-visits-1",
             "isoDate": "2026-10-10",
             "kind": "Visit",
@@ -1916,14 +1986,20 @@
           },
           {
             "date": "Nov 7, 2026",
-            "detail": "2 pm · Middle & High School open house",
+            "detail": "2 pm · Middle & High School open house · Registration availability uncertain",
             "id": "french-american-visits-2",
             "isoDate": "2026-11-07",
             "kind": "Visit",
             "status": "verified"
           }
         ],
-        "detailNote": "Register for the Jersey City Heights campus."
+        "detailNote": "The main school open-house page announces both October 10 and November 7, 2026 at 2 pm. Public registration confirms October 10, 2–4 pm at 118 Ferry Street. November 7 booking availability is uncorroborated, while the high-school event page says no events are scheduled. Confirm November 7 registration with admissions; the announced event is not marked canceled.",
+        "sources": [
+          {
+            "label": "Public open-house registration",
+            "url": "https://calendly.com/faa-visit-us/jersey-city-open-house-middle-and-high-schol-2025-26?month=2026-10"
+          }
+        ]
       },
       "deadline": {
         "summary": "Jan 22, 2027",
@@ -2010,7 +2086,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.avenues.org/new-york/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Preliminary application, parent conversation and student interview, statements, school documents and ISEE or SSAT. First Choice is binding.",
         "status": "verified",
@@ -2060,10 +2136,10 @@
       },
       "deadline": {
         "summary": "Nov 1 / Dec 1",
-        "text": "Nov 1, 2026 — First Choice preliminary application · Binding\nNov 18, 2026 — First Choice complete file\nDec 1, 2026 — Regular preliminary application\nJan 8, 2027 — Regular complete file",
+        "text": "Nov 1, 2026 — First Choice preliminary application · Binding\nNov 18, 2026 — First Choice complete file + financial-aid application and additional documents\nDec 1, 2026 — Regular preliminary application\nJan 8, 2027 — Regular complete file + financial-aid application and additional documents\nFinancial-aid materials apply to families requesting aid; the cited instructions give the same completion dates for new students.",
         "url": "https://www.avenues.org/new-york/admissions",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "dates": [
           "2026-11-01",
           "2026-12-01"
@@ -2079,7 +2155,7 @@
           },
           {
             "date": "Nov 18, 2026",
-            "detail": "First Choice complete file",
+            "detail": "First Choice complete file + financial-aid application and additional documents",
             "id": "avenues-deadline-2",
             "isoDate": "2026-11-18",
             "kind": "Documents / aid",
@@ -2095,14 +2171,20 @@
           },
           {
             "date": "Jan 8, 2027",
-            "detail": "Regular complete file",
+            "detail": "Regular complete file + financial-aid application and additional documents",
             "id": "avenues-deadline-4",
             "isoDate": "2027-01-08",
             "kind": "Documents / aid",
             "status": "verified"
           }
         ],
-        "detailNote": ""
+        "detailNote": "Financial-aid materials apply to families requesting aid; the cited instructions give the same completion dates for new students.",
+        "sources": [
+          {
+            "label": "2027–28 financial-aid instructions",
+            "url": "https://www.avenues.org/new-york/-/media/avenues-new-york/admissions/how-to-apply-for-financial-aid-2027-2028.pdf?hash=8815DF72252D02B9B08BFBB81C587EC6&rev=568ab53eb47742e3aab68d282a588589"
+          }
+        ]
       },
       "exam": {
         "summary": "ISEE / SSAT",
@@ -2153,18 +2235,18 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://www.dwight.edu/newyork",
-      "reviewed": "2026-09-22",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Apply through Ravenna, complete the student interview, send official transcripts, math/English recommendations and ISEE or SSAT scores.",
         "status": "verified",
         "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school"
       },
       "visits": {
-        "summary": "Book in Ravenna",
-        "text": "Fall · dates in Ravenna — Upper School open houses + tours\nRegistration required. Interview bookings do not include tours.",
-        "url": "https://www.dwight.edu/newyork/admissions/application-process/upper-school",
+        "summary": "Nov 17 · virtual",
+        "text": "Fall · dates in Ravenna — Upper School open houses + tours\nOct 6, 2026 — 4 pm · In-person Upper School open house · FULL; contact admissions for waitlist\nOct 28, 2026 — 4 pm · In-person Upper School open house · FULL; contact admissions for waitlist\nNov 17, 2026 — 5–6 pm · Virtual Upper School open house\nThe October 6 and October 28 in-person open houses are full. Register for November 17 through Ravenna or contact Upper School admissions for the in-person waitlist. Interview bookings do not include tours.",
+        "url": "https://www.dwight.edu/newyork/admissions/visit-us",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Fall · dates in Ravenna",
@@ -2173,9 +2255,33 @@
             "isoDate": null,
             "kind": "Visit",
             "status": "verified"
+          },
+          {
+            "date": "Oct 6, 2026",
+            "detail": "4 pm · In-person Upper School open house · FULL; contact admissions for waitlist",
+            "id": "dwight-open-house-oct6",
+            "isoDate": "2026-10-06",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Oct 28, 2026",
+            "detail": "4 pm · In-person Upper School open house · FULL; contact admissions for waitlist",
+            "id": "dwight-open-house-oct28",
+            "isoDate": "2026-10-28",
+            "kind": "Visit",
+            "status": "verified"
+          },
+          {
+            "date": "Nov 17, 2026",
+            "detail": "5–6 pm · Virtual Upper School open house",
+            "id": "dwight-virtual-nov17",
+            "isoDate": "2026-11-17",
+            "kind": "Visit",
+            "status": "verified"
           }
         ],
-        "detailNote": "Registration required. Interview bookings do not include tours."
+        "detailNote": "The October 6 and October 28 in-person open houses are full. Register for November 17 through Ravenna or contact Upper School admissions for the in-person waitlist. Interview bookings do not include tours."
       },
       "deadline": {
         "summary": "Nov 13 / Dec 1",
@@ -2290,12 +2396,12 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://www.hoboken.k12.nj.us/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
-        "text": "Resident enrollment and nonresident School Choice follow different processes. The district publishes grade 9 School Choice availability for 2027–28. Submit the Choice application and a Notice of Intent to Participate stamped by the resident district; confirm pathway eligibility with the enrollment office.",
+        "text": "Resident enrollment and nonresident School Choice follow different processes. The district publishes grade 9 School Choice availability for 2027–28. Choice applicants need two years of grades B or higher in both Mathematics and Science, plus proficiency in Mathematics and ELA on the NJSLA or another standardized assessment. Submit the Choice application and a Notice of Intent to Participate stamped by the resident district. The current application leaves the Tier 2 acceptance Yes/No selection unfilled: Tier 2 acceptance is unresolved, and private-school eligibility must not be inferred. Confirm eligibility with the enrollment office.",
         "status": "verified",
         "url": "https://www.hoboken.k12.nj.us/central_office/student_enrollment_office/-_school_choice",
-        "checked": "2026-10-02"
+        "checked": "2026-10-06"
       },
       "visits": {
         "summary": "Request a shadow day",
@@ -2511,7 +2617,7 @@
       "type": "Public",
       "gender": "Co-ed",
       "website": "https://www.kindleeducation.org/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Applications for 2027–28 are open. Apply by February 15, 2027 for the enrollment lottery. Confirm residence priority and required enrollment documents.",
         "status": "verified",
@@ -2519,22 +2625,52 @@
         "checked": "2026-10-02"
       },
       "visits": {
-        "summary": "Open-house signup",
-        "text": "Dates in signup form — High School open house\nDates could not be retrieved; check the form or contact the school.",
+        "summary": "Nov 5 / Nov 19 / Jan 21",
+        "text": "Dates in signup form — Choose a High School open house in the current registration form\nNov 5, 2026 · year inferred — 6:30 pm · Virtual High School open house\nNov 19, 2026 · year inferred — 6:30 pm · In-person High School open house · 89 York Street\nJan 21, 2027 · year inferred — 6:30 pm · In-person High School open house · 89 York Street\nThe current form publishes month/day, weekday, time and format but no years. November 2026 and January 2027 are inferred from the current 2027–28 enrollment cycle; confirm when registering. Inferred years are not treated as confirmed calendar dates.",
         "url": "https://www.kindleeducation.org/enroll",
-        "status": "verified",
-        "checked": "2026-09-22",
+        "status": "tentative",
+        "checked": "2026-10-06",
         "items": [
           {
             "date": "Dates in signup form",
-            "detail": "High School open house",
+            "detail": "Choose a High School open house in the current registration form",
             "id": "kindle-visits-1",
             "isoDate": null,
             "kind": "Visit",
             "status": "verified"
+          },
+          {
+            "date": "Nov 5, 2026 · year inferred",
+            "detail": "6:30 pm · Virtual High School open house",
+            "id": "kindle-open-house-nov5",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "tentative"
+          },
+          {
+            "date": "Nov 19, 2026 · year inferred",
+            "detail": "6:30 pm · In-person High School open house · 89 York Street",
+            "id": "kindle-open-house-nov19",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "tentative"
+          },
+          {
+            "date": "Jan 21, 2027 · year inferred",
+            "detail": "6:30 pm · In-person High School open house · 89 York Street",
+            "id": "kindle-open-house-jan21",
+            "isoDate": null,
+            "kind": "Visit",
+            "status": "tentative"
           }
         ],
-        "detailNote": "Dates could not be retrieved; check the form or contact the school."
+        "detailNote": "The current form publishes month/day, weekday, time and format but no years. November 2026 and January 2027 are inferred from the current 2027–28 enrollment cycle; confirm when registering. Inferred years are not treated as confirmed calendar dates.",
+        "sources": [
+          {
+            "label": "High School open-house form",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSePAlDXuXX-irHC-U6KSmZYhGhbfQ--JVuAt4_8wzspNcUP6g/viewform"
+          }
+        ]
       },
       "deadline": {
         "summary": "Feb 15, 2027",
@@ -2611,7 +2747,7 @@
       "type": "Private",
       "gender": "Co-ed",
       "website": "https://peddie.org/",
-      "reviewed": "2026-10-02",
+      "reviewed": "2026-10-06",
       "admissions": {
         "text": "Submit SAO or Gateway application, required interview, school transcripts, recommendations, student essays, school supplement and required test scores.",
         "status": "verified",
@@ -2660,10 +2796,10 @@
       },
       "deadline": {
         "summary": "Jan 15, 2027",
-        "text": "Jan 15, 2027 — Application through SAO or Gateway\nYear established from the transcript years requested on the current page.",
+        "text": "Jan 15, 2027 — Application through SAO or Gateway\nJan 15, 2027 · year inferred — All financial-assistance materials due to Clarity\nApplication year established from the transcript years requested on the current application page. The aid page states January 15 without a year; 2027 is inferred from the current admissions cycle. Confirm the aid year with admissions.",
         "url": "https://peddie.org/admission/how-to-apply/",
         "status": "verified",
-        "checked": "2026-09-22",
+        "checked": "2026-10-06",
         "dates": [
           "2027-01-15"
         ],
@@ -2675,9 +2811,24 @@
             "isoDate": "2027-01-15",
             "kind": "Application",
             "status": "verified"
+          },
+          {
+            "date": "Jan 15, 2027 · year inferred",
+            "detail": "All financial-assistance materials due to Clarity",
+            "id": "peddie-financial-aid",
+            "isoDate": null,
+            "kind": "Documents / aid",
+            "status": "tentative",
+            "url": "https://peddie.org/admission/tuition-affordability/financial-assistance/"
           }
         ],
-        "detailNote": "Year established from the transcript years requested on the current page."
+        "detailNote": "Application year established from the transcript years requested on the current application page. The aid page states January 15 without a year; 2027 is inferred from the current admissions cycle. Confirm the aid year with admissions.",
+        "sources": [
+          {
+            "label": "Financial-assistance deadline",
+            "url": "https://peddie.org/admission/tuition-affordability/financial-assistance/"
+          }
+        ]
       },
       "exam": {
         "summary": "ISEE / SSAT",
